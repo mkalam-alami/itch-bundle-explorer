@@ -2,7 +2,7 @@ All the games and their pictures are the property of their respective owners. Th
 
 ----
 
-MIT Licence
+MIT License
 
 Copyright © 2020, Marwane Kalam-Alami
 
