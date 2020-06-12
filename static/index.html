@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+    <div id="app" v-cloak>
+        <ul>
+            <li v-for="game in games">
+                <a v-bind:href="game.url">
+                    {{ game.title }}
+                    <img v-bind:src="'/static/pics/' + game.id + '.png'" />
+
+                </a>
+            </li>
+        </ul>
+    </div>
+    <script src="dist/games.js"></script>
+    <script src="dist/bundle.js"></script>
+</body>
+
+</html>

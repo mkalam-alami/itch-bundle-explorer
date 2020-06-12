@@ -1,0 +1,7 @@
+body {
+    background-color: #DDD;
+}
+
+[v-cloak] {
+    display: none;
+}
