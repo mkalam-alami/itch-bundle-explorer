@@ -1,4 +1,4 @@
-All the games and their pictures are the property of their respective owners, only cached in this repo to avoid spamming the itch.io servers.
+All the games and their pictures are the property of their respective owners. Thumbnails are cached in this repo to avoid spamming the itch.io servers.
 
 ----
 
