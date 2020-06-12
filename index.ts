@@ -10,7 +10,7 @@ const GAMES = JSON.parse(fs.readFileSync(path.resolve(__dirname, "static/dist/ga
 
 const app = new Koa();
 
-app.use(koaStatic("./static"))
+app.use(koaStatic("."))
 
 app.use(async (ctx) => {
     if (ctx.url.startsWith("/static/pics/")) {

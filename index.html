@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="static/style.css" />
 </head>
 
 <body>
@@ -21,12 +21,12 @@
             <a v-for="game in results" v-bind:href="game.url" class="game">
                 <h3 class="game__title">{{ game.title }}</h3>
                 <div class="game__user">By {{ game.user.name }}</div>
-                <img v-lazy-src="'/static/pics/' + game.id + '.png'" />
+                <img v-lazy-src="'static/pics/' + game.id + '.png'" />
             </a>
         </div>
     </div>
-    <script src="dist/games.js"></script>
-    <script src="dist/bundle.js"></script>
+    <script src="static/dist/games.js"></script>
+    <script src="static/dist/bundle.js"></script>
 </body>
 
 </html>
