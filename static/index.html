@@ -7,15 +7,23 @@
 
 <body>
     <div id="app" v-cloak>
-        <ul>
-            <li v-for="game in games">
-                <a v-bind:href="game.url">
-                    {{ game.title }}
-                    <img v-bind:src="'/static/pics/' + game.id + '.png'" />
-
-                </a>
-            </li>
-        </ul>
+        <h1>
+            <a href="https://itch.io/b/520/bundle-for-racial-justice-and-equality"></a>Bundle for Racial Justice and Equality</1> contents
+            <a href="https://github.com/mkalam-alami/itch-bundle-explorer" id="github-link">Fork this repo on Github</a>
+        </h1>
+        <div><input id="search" v-model="search" placeholder="Start typing..." @keyup="onSearch()" /></div>
+        <h2>
+            Showing {{ results.length }} results
+            <span v-if="resultsCount > results.length">out of {{ resultsCount }}</span>
+            <label for="allResults"><input type="checkbox" id="allResults" name="allResults" v-model="allResults"> Always show all results (slower)</label>
+        </h2>
+        <div class="games">
+            <a v-for="game in results" v-bind:href="game.url" class="game">
+                <h3 class="game__title">{{ game.title }}</h3>
+                <div class="game__user">By {{ game.user.name }}</div>
+                <img v-lazy-src="'/static/pics/' + game.id + '.png'" />
+            </a>
+        </div>
     </div>
     <script src="dist/games.js"></script>
     <script src="dist/bundle.js"></script>
