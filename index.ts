@@ -1,9 +1,9 @@
 import download from "download";
 import * as fs from "fs";
+import { Game } from "import/games-itch";
 import Koa from "koa";
 import koaStatic from "koa-static";
 import * as path from "path";
-import { Game } from "./import";
 
 const PICS_FOLDER = path.resolve(__dirname, "static/pics");
 const GAMES = JSON.parse(fs.readFileSync(path.resolve(__dirname, "static/dist/games.json")).toString()) as Game[];
@@ -15,6 +15,7 @@ app.use(koaStatic("."))
 app.use(async (ctx) => {
     if (ctx.url.startsWith("/static/pics/")) {
         // Cache game pics locally
+        // TODO Download them on import
         const picFile = ctx.url.replace("/static/pics/", "");
         const picId = parseInt(picFile.split(".")[0], 10);
         if (!isNaN(picId)) {

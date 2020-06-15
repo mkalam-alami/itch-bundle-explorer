@@ -1,8 +1,8 @@
-import { Game } from "import";
 import LazyloadVue from "lazyload-vue";
 import { debounce } from "lodash-es";
 import removeAccents from "remove-accents";
 import Vue from "vue";
+import { Game } from "import/games-itch";
 
 interface SearchEntry {
     searchString: string;
@@ -22,10 +22,14 @@ new Vue({
         results: games.slice(0, 30),
         resultsCount: games.length,
         search: '',
-        allResults: false
+        allResults: false,
+        steamOnly: false
     },
     watch: {
         allResults() {
+            this.refreshResults();
+        },
+        steamOnly() {
             this.refreshResults();
         }
     },
@@ -39,8 +43,13 @@ new Vue({
             } else {
                 this.results = games;
             }
+
+            if (this.steamOnly) {
+                this.results = this.results.filter(result => Boolean(result.steamAppId));
+            }
+
             this.resultsCount = this.results.length;
-            
+
             if (!this.allResults) {
                 this.results = this.results.slice(0, MAX_GAMES)
             }

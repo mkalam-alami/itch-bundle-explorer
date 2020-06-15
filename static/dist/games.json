@@ -55,7 +55,8 @@
       "linux"
     ],
     "short_text": "a little exploration game about hiking up a mountain",
-    "price": "$7.99"
+    "price": "$7.99",
+    "steamAppId": 1055540
   },
   {
     "id": 558218,
@@ -94,7 +95,8 @@
       "linux"
     ],
     "short_text": "At the end of everything, hold onto anything.",
-    "price": "$19.99"
+    "price": "$19.99",
+    "steamAppId": 481510
   },
   {
     "id": 377763,
@@ -132,7 +134,8 @@
       "osx"
     ],
     "short_text": "A death-positive game where you play as a mortician tasked with running a funeral home",
-    "price": "$8.99"
+    "price": "$8.99",
+    "steamAppId": 578720
   },
   {
     "id": 58594,
@@ -172,7 +175,8 @@
       "linux"
     ],
     "short_text": "Brave hundreds of hand-crafted challenges as you help Madeline survive her journey to the top of Celeste Mountain!",
-    "price": "$19.99"
+    "price": "$19.99",
+    "steamAppId": 504230
   },
   {
     "id": 45830,
@@ -229,7 +233,8 @@
       "linux"
     ],
     "short_text": "A squad-based survival strategy game with procedurally generated levels set in post-apocalyptic North America.",
-    "price": "$24.99"
+    "price": "$24.99",
+    "steamAppId": 355680
   },
   {
     "id": 51221,
@@ -249,7 +254,8 @@
       "linux"
     ],
     "short_text": "Planet exploration and survival game with base building.",
-    "price": "$5.99"
+    "price": "$5.99",
+    "steamAppId": 743130
   },
   {
     "id": 58824,
@@ -269,7 +275,8 @@
       "linux"
     ],
     "short_text": "After a night of fun, passion, and one too many drinks, you awake the next morning to find a stranger lying beside you.",
-    "price": "$2.99"
+    "price": "$2.99",
+    "steamAppId": 549860
   },
   {
     "id": 2426,
@@ -342,7 +349,8 @@
       "linux"
     ],
     "short_text": "AI Combat Arena",
-    "price": "$14.99"
+    "price": "$14.99",
+    "steamAppId": 871930
   },
   {
     "id": 217240,
@@ -362,7 +370,8 @@
       "linux"
     ],
     "short_text": "A game about a trans girl discovering herself through fandom, chats, and the early internet.",
-    "price": "$5"
+    "price": "$5",
+    "steamAppId": 827290
   },
   {
     "id": 147395,
@@ -382,7 +391,8 @@
       "linux"
     ],
     "short_text": "A Romantic Comedy Narrative Game",
-    "price": "$20"
+    "price": "$20",
+    "steamAppId": 910630
   },
   {
     "id": 647,
@@ -402,7 +412,8 @@
       "linux"
     ],
     "short_text": "A fwooshy, intense, procedurally generated fly-em-up",
-    "price": "$19.95"
+    "price": "$19.95",
+    "steamAppId": 381020
   },
   {
     "id": 240797,
@@ -422,7 +433,8 @@
       "linux"
     ],
     "short_text": "Minit is a peculiar little adventure played sixty seconds at a time.",
-    "price": "$9.99"
+    "price": "$9.99",
+    "steamAppId": 609490
   },
   {
     "id": 564238,
@@ -459,7 +471,8 @@
       "osx"
     ],
     "short_text": "Experimental Colourful Exploration Machine",
-    "price": "$5"
+    "price": "$5",
+    "steamAppId": 513360
   },
   {
     "id": 583454,
@@ -477,7 +490,8 @@
       "windows"
     ],
     "short_text": "A surreal puzzle adventure game with unique mechanics / capabilities.",
-    "price": "$10"
+    "price": "$10",
+    "steamAppId": 1221330
   },
   {
     "id": 66082,
@@ -496,7 +510,8 @@
       "osx"
     ],
     "short_text": "Modern-day RPG that imagines the world of war that's coming for us, with a focus on civilians and language barriers.",
-    "price": "$14.99"
+    "price": "$14.99",
+    "steamAppId": 510540
   },
   {
     "id": 44905,
@@ -627,7 +642,8 @@
       "linux"
     ],
     "short_text": "A New Cyberpunk Adventure",
-    "price": "$19.99"
+    "price": "$19.99",
+    "steamAppId": 330820
   },
   {
     "id": 47476,
@@ -647,7 +663,8 @@
       "linux"
     ],
     "short_text": "Can you reach the Nuclear Throne?",
-    "price": "$10.99"
+    "price": "$10.99",
+    "steamAppId": 242680
   },
   {
     "id": 258519,
@@ -665,7 +682,8 @@
     "short_text": "Marie's Room is a short story exploration game about an unconventional friendship between two classmates.",
     "platforms": [
       "windows"
-    ]
+    ],
+    "steamAppId": 648390
   },
   {
     "id": 422627,
@@ -700,7 +718,8 @@
       "linux"
     ],
     "short_text": "Pave the road to a post-capitalist society",
-    "price": "$2.99"
+    "price": "$2.99",
+    "steamAppId": 1261760
   },
   {
     "id": 489420,
@@ -718,7 +737,8 @@
     "short_text": "A bite-sized game by Octavi Navarro.",
     "platforms": [
       "windows"
-    ]
+    ],
+    "steamAppId": 1171370
   },
   {
     "id": 76416,
@@ -738,7 +758,8 @@
       "linux"
     ],
     "short_text": "A surreal trip through the mundane",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 540510
   },
   {
     "id": 235084,
@@ -797,7 +818,8 @@
       "linux"
     ],
     "short_text": "experimental exploration game",
-    "price": "5.00€"
+    "price": "5.00€",
+    "steamAppId": 883220
   },
   {
     "id": 428139,
@@ -817,7 +839,8 @@
       "linux"
     ],
     "short_text": "A game of crowds.",
-    "price": "$2.99"
+    "price": "$2.99",
+    "steamAppId": 793370
   },
   {
     "id": 623217,
@@ -895,7 +918,8 @@
       "linux"
     ],
     "short_text": "You are the Grim Reaper on an office job. Save the world.. or condemn it to damnation?",
-    "price": "$12.99"
+    "price": "$12.99",
+    "steamAppId": 1166290
   },
   {
     "id": 33700,
@@ -932,7 +956,8 @@
       "osx"
     ],
     "short_text": "Mystery and romance ensue when our MC is unwittingly drawn into a dangerous paranormal community",
-    "price": "$19.99"
+    "price": "$19.99",
+    "steamAppId": 1010240
   },
   {
     "id": 266192,
@@ -952,7 +977,8 @@
       "linux"
     ],
     "short_text": "Take control of a group of settlers to build a settlement that survives the passing seasons.",
-    "price": "$10"
+    "price": "$10",
+    "steamAppId": 688060
   },
   {
     "id": 305627,
@@ -971,7 +997,8 @@
       "osx"
     ],
     "short_text": "~*LET'S DRAW*~",
-    "price": "$11.99"
+    "price": "$11.99",
+    "steamAppId": 953300
   },
   {
     "id": 29655,
@@ -992,7 +1019,8 @@
       "android"
     ],
     "short_text": "A minimal action game by Terry Cavanagh, with music by Chipzel.",
-    "price": "$2.99"
+    "price": "$2.99",
+    "steamAppId": 221640
   },
   {
     "id": 392851,
@@ -1046,7 +1074,8 @@
     "flag": "web",
     "title": "Social Interaction Trainer",
     "short_text": "Learn how to conduct yourself in social situations.",
-    "price": "$4"
+    "price": "$4",
+    "steamAppId": 519930
   },
   {
     "id": 661927,
@@ -1066,7 +1095,8 @@
       "linux"
     ],
     "short_text": "A supernatural thriller about a group of friends who unwittingly open a ghostly rift",
-    "price": "$9.99"
+    "price": "$9.99",
+    "steamAppId": 388880
   },
   {
     "id": 98206,
@@ -1087,7 +1117,8 @@
       "android"
     ],
     "short_text": "A Normal Lost Phone is a game about exploring the intimacy of an unknown person whose phone was found by the player.",
-    "price": "$2.99"
+    "price": "$2.99",
+    "steamAppId": 523210
   },
   {
     "id": 321557,
@@ -1126,7 +1157,8 @@
       "linux"
     ],
     "short_text": "One in a minion",
-    "price": "$14.99"
+    "price": "$14.99",
+    "steamAppId": 573320
   },
   {
     "id": 442182,
@@ -1184,7 +1216,8 @@
       "linux"
     ],
     "short_text": "The premier first-person destructive house cat simulator!",
-    "price": "$9.99"
+    "price": "$9.99",
+    "steamAppId": 329860
   },
   {
     "id": 171727,
@@ -1203,7 +1236,8 @@
       "osx"
     ],
     "short_text": "A conversation on the edge of a cliff.",
-    "price": "$7.99"
+    "price": "$7.99",
+    "steamAppId": 706130
   },
   {
     "id": 420407,
@@ -1243,7 +1277,8 @@
       "linux"
     ],
     "short_text": "Procedurally generated Gameboy-style action-adventure game",
-    "price": "$9.99"
+    "price": "$9.99",
+    "steamAppId": 1114870
   },
   {
     "id": 268567,
@@ -1321,7 +1356,8 @@
       "linux"
     ],
     "short_text": "A Camping Story starring: Uncle Brad, Aunt Cloanne, Mord (and Ben)",
-    "price": "$7.99"
+    "price": "$7.99",
+    "steamAppId": 1198040
   },
   {
     "id": 484317,
@@ -1354,7 +1390,8 @@
     "short_text": "Join Bernie's movement and transform the United States in this free retro 2D platformer.",
     "platforms": [
       "web"
-    ]
+    ],
+    "steamAppId": 1258040
   },
   {
     "id": 448392,
@@ -1394,7 +1431,8 @@
       "linux"
     ],
     "short_text": "Post-Apocalyptic Visual Novel with Romance and Drama",
-    "price": "$14.99"
+    "price": "$14.99",
+    "steamAppId": 806490
   },
   {
     "id": 624121,
@@ -1414,7 +1452,8 @@
       "linux"
     ],
     "short_text": "When your loved one hurts you, what do you do? A classic love story about letting go.",
-    "price": "$2.99"
+    "price": "$2.99",
+    "steamAppId": 1297160
   },
   {
     "id": 209946,
@@ -1638,7 +1677,8 @@
       "osx"
     ],
     "short_text": "Diaries of a Spaceport Janitor is an anti-adventure game about picking up trash in an alien bazaar.",
-    "price": "$9.99"
+    "price": "$9.99",
+    "steamAppId": 436500
   },
   {
     "id": 280541,
@@ -1678,7 +1718,8 @@
       "linux"
     ],
     "short_text": "A boys' love visual novel about a supervillain and the spies that try to stop him.",
-    "price": "$3.50"
+    "price": "$3.50",
+    "steamAppId": 657290
   },
   {
     "id": 622174,
@@ -1730,7 +1771,8 @@
       "osx"
     ],
     "short_text": "Wholesome horror conversation sim about death and robbing banks",
-    "price": "$6.99"
+    "price": "$6.99",
+    "steamAppId": 746400
   },
   {
     "id": 384047,
@@ -1765,7 +1807,8 @@
       "linux"
     ],
     "short_text": "A possession based traditional roguelike with turn-based gameplay.",
-    "price": "$14.99"
+    "price": "$14.99",
+    "steamAppId": 561740
   },
   {
     "id": 107080,
@@ -1946,7 +1989,8 @@
       "linux"
     ],
     "short_text": "A revolutionary crowd-based retro brawler",
-    "price": "$15"
+    "price": "$15",
+    "steamAppId": 290690
   },
   {
     "id": 245298,
@@ -1966,7 +2010,8 @@
       "linux"
     ],
     "short_text": "Award-winning, rhyming point'n'click adventure",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 544970
   },
   {
     "id": 478214,
@@ -2019,7 +2064,8 @@
       "linux"
     ],
     "short_text": "A peaceful puzzle game about water, erosion, and watching things grow.",
-    "price": "$7"
+    "price": "$7",
+    "steamAppId": 1040550
   },
   {
     "id": 655876,
@@ -2056,7 +2102,8 @@
       "osx"
     ],
     "short_text": "A Rusty Lake puzzle adventure",
-    "price": "$2.99"
+    "price": "$2.99",
+    "steamAppId": 1145960
   },
   {
     "id": 437040,
@@ -2092,7 +2139,8 @@
       "osx"
     ],
     "short_text": "Toyish surprise-o-rama",
-    "price": "$7.99"
+    "price": "$7.99",
+    "steamAppId": 944340
   },
   {
     "id": 401269,
@@ -2126,7 +2174,8 @@
     "url": "https://devolverdigital.itch.io/pikuniku",
     "cover": "https://img.itch.zone/aW1nLzE2OTA3NTIuanBn/300x240%23c/63NY61.jpg",
     "ratings_count": 41,
-    "price": "$12.99"
+    "price": "$12.99",
+    "steamAppId": 572890
   },
   {
     "id": 97782,
@@ -2146,7 +2195,8 @@
       "linux"
     ],
     "short_text": "In this Zelda-like game, explore the wondrous dream world of the human Young.",
-    "price": "$9.99"
+    "price": "$9.99",
+    "steamAppId": 234900
   },
   {
     "id": 415749,
@@ -2161,7 +2211,8 @@
     "url": "https://morphcatgames.itch.io/micromages",
     "short_text": "A platformer developed for the NES. Now available on PC! ROM included. Play solo or with up to 4 players simultaneously.",
     "ratings_count": 40,
-    "price": "$9.99"
+    "price": "$9.99",
+    "steamAppId": 1065020
   },
   {
     "id": 173796,
@@ -2180,7 +2231,8 @@
       "osx"
     ],
     "short_text": "Explore a cult compound in this narrative adventure game.",
-    "price": "$6.99"
+    "price": "$6.99",
+    "steamAppId": 864100
   },
   {
     "id": 129113,
@@ -2254,7 +2306,8 @@
       "linux"
     ],
     "short_text": "The cost of seeking impossible goals",
-    "price": "£4.99"
+    "price": "£4.99",
+    "steamAppId": 681240
   },
   {
     "id": 481412,
@@ -2273,7 +2326,8 @@
       "osx"
     ],
     "short_text": "An introspective deck-builder about friendship, travel, and collecting snacks.",
-    "price": "$19.99"
+    "price": "$19.99",
+    "steamAppId": 1058690
   },
   {
     "id": 16123,
@@ -2294,7 +2348,8 @@
       "android"
     ],
     "short_text": "Endless arcade action with just ONE button",
-    "price": "$3.99"
+    "price": "$3.99",
+    "steamAppId": 498470
   },
   {
     "id": 302297,
@@ -2312,7 +2367,8 @@
       "windows"
     ],
     "short_text": "Atmospheric Photography Simulator set in a riverside forest area of New Zealand",
-    "price": "$3.80"
+    "price": "$3.80",
+    "steamAppId": 1291330
   },
   {
     "id": 309634,
@@ -2426,7 +2482,8 @@
       "linux"
     ],
     "short_text": "Twentieth-century Cyberpunk",
-    "price": "$19.99"
+    "price": "$19.99",
+    "steamAppId": 240440
   },
   {
     "id": 257263,
@@ -2445,7 +2502,8 @@
     "url": "https://bootdiskrevolution.itch.io/bleed-2",
     "short_text": "A relentless arcade action game with air-dodging, bullet-reflecting, and tons of bosses.",
     "ratings_count": 36,
-    "price": "$9.99"
+    "price": "$9.99",
+    "steamAppId": 396350
   },
   {
     "id": 368436,
@@ -2500,7 +2558,8 @@
       "linux"
     ],
     "short_text": "You wake up to a horrible smell, and whispering vents in your apartment. Something's wrong.",
-    "price": "$2.99"
+    "price": "$2.99",
+    "steamAppId": 1171260
   },
   {
     "id": 70696,
@@ -2519,7 +2578,8 @@
     "url": "https://vectorpark.itch.io/windosill",
     "short_text": "The classic point-and-click puzzle-toy.",
     "ratings_count": 36,
-    "price": "$2.99"
+    "price": "$2.99",
+    "steamAppId": 37600
   },
   {
     "id": 153415,
@@ -2557,7 +2617,8 @@
       "linux"
     ],
     "short_text": "a Cyberpink Adventure",
-    "price": "$10"
+    "price": "$10",
+    "steamAppId": 461220
   },
   {
     "id": 144151,
@@ -2575,7 +2636,8 @@
       "windows"
     ],
     "short_text": "A short horror story, about your childhood.",
-    "price": "$2.99"
+    "price": "$2.99",
+    "steamAppId": 734120
   },
   {
     "id": 217069,
@@ -2708,7 +2770,8 @@
       "linux"
     ],
     "short_text": "Pyre is a party-based RPG from the creators of Bastion and Transistor.",
-    "price": "$19.99"
+    "price": "$19.99",
+    "steamAppId": 462770
   },
   {
     "id": 305238,
@@ -2746,7 +2809,8 @@
     "short_text": "-Uncover What Lies Below-",
     "platforms": [
       "windows"
-    ]
+    ],
+    "steamAppId": 574180
   },
   {
     "id": 160051,
@@ -2784,7 +2848,8 @@
     "short_text": "Two Minotaurs trapped in a maze.",
     "platforms": [
       "windows"
-    ]
+    ],
+    "steamAppId": 791470
   },
   {
     "id": 562185,
@@ -2820,7 +2885,8 @@
       "android"
     ],
     "short_text": "A surreal adventure platformer.",
-    "price": "$5.99"
+    "price": "$5.99",
+    "steamAppId": 296870
   },
   {
     "id": 297201,
@@ -2840,7 +2906,8 @@
       "linux"
     ],
     "short_text": "Inescapable Horror",
-    "price": "$7.99"
+    "price": "$7.99",
+    "steamAppId": 932220
   },
   {
     "id": 618864,
@@ -2894,7 +2961,8 @@
       "osx"
     ],
     "short_text": "Experience Henry David Thoreau's life in Walden Woods.",
-    "price": "$9.99"
+    "price": "$9.99",
+    "steamAppId": 1011700
   },
   {
     "id": 333552,
@@ -2914,7 +2982,8 @@
       "linux"
     ],
     "short_text": "A hand-drawn, interactive searching game",
-    "price": "$11.99"
+    "price": "$11.99",
+    "steamAppId": 435400
   },
   {
     "id": 296896,
@@ -2968,7 +3037,8 @@
       "windows",
       "osx",
       "linux"
-    ]
+    ],
+    "steamAppId": 1249300
   },
   {
     "id": 19887,
@@ -3005,7 +3075,8 @@
     "url": "https://apthomson.itch.io/fortune-499",
     "cover": "https://img.itch.zone/aW1hZ2UvMTUyODY1LzExNzQzMjYucG5n/300x240%23c/%2F%2Fwp09.png",
     "ratings_count": 30,
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 840610
   },
   {
     "id": 291122,
@@ -3040,7 +3111,8 @@
       "linux"
     ],
     "short_text": "White-knuckle speed-Pac-Man.",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 942060
   },
   {
     "id": 614283,
@@ -3090,7 +3162,8 @@
       "linux"
     ],
     "short_text": "A quick and light single player Action RTS.",
-    "price": "$14.99"
+    "price": "$14.99",
+    "steamAppId": 668290
   },
   {
     "id": 796,
@@ -3110,7 +3183,8 @@
     "url": "https://ninjadodo.itch.io/guppy",
     "short_text": "2D watercolor fish simulation",
     "ratings_count": 29,
-    "price": "$3"
+    "price": "$3",
+    "steamAppId": 698500
   },
   {
     "id": 27122,
@@ -3128,7 +3202,8 @@
       "windows"
     ],
     "short_text": "A fast paced platformer without...running?",
-    "price": "$1"
+    "price": "$1",
+    "steamAppId": 416110
   },
   {
     "id": 476797,
@@ -3178,7 +3253,8 @@
       "linux"
     ],
     "short_text": "Explore a flooded world in this tactical RPG",
-    "price": "$14.99"
+    "price": "$14.99",
+    "steamAppId": 636320
   },
   {
     "id": 26881,
@@ -3198,7 +3274,8 @@
       "linux"
     ],
     "short_text": "Artificial life and genetics evolution simulator sandbox game.",
-    "price": "$14.99"
+    "price": "$14.99",
+    "steamAppId": 458330
   },
   {
     "id": 318140,
@@ -3252,7 +3329,8 @@
       "windows"
     ],
     "short_text": "A game about dreams and motherhood",
-    "price": "$3.99"
+    "price": "$3.99",
+    "steamAppId": 886380
   },
   {
     "id": 498716,
@@ -3310,7 +3388,8 @@
       "windows"
     ],
     "short_text": "A TALE OF FRIENDSHIP, LOSS AND REDEMPTION... IN OUTER SPACE!",
-    "price": "$15"
+    "price": "$15",
+    "steamAppId": 443880
   },
   {
     "id": 944,
@@ -3330,7 +3409,8 @@
       "linux"
     ],
     "short_text": "An adventure game in which you must travel the land, explore dungeons, and defeat monsters to escape the island.",
-    "price": "$2.99"
+    "price": "$2.99",
+    "steamAppId": 342490
   },
   {
     "id": 9339,
@@ -3425,7 +3505,8 @@
       "osx"
     ],
     "short_text": "golf + cards + puzzles",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 923260
   },
   {
     "id": 463,
@@ -3462,7 +3543,8 @@
       "osx"
     ],
     "short_text": "It desires more. Feed It. Nourish It.",
-    "price": "$5"
+    "price": "$5",
+    "steamAppId": 892780
   },
   {
     "id": 371877,
@@ -3597,7 +3679,8 @@
       "linux"
     ],
     "short_text": "A narrative racing game set in the roaring Italian 70s",
-    "price": "$9.99"
+    "price": "$9.99",
+    "steamAppId": 508740
   },
   {
     "id": 68463,
@@ -3617,7 +3700,8 @@
       "linux"
     ],
     "short_text": "God game with fully simulated genetics and evolution.",
-    "price": "$6.99"
+    "price": "$6.99",
+    "steamAppId": 627620
   },
   {
     "id": 282335,
@@ -3727,7 +3811,8 @@
       "linux"
     ],
     "short_text": "A retro-core explosion of exploration and platforming action!!",
-    "price": "$7.99"
+    "price": "$7.99",
+    "steamAppId": 310700
   },
   {
     "id": 287843,
@@ -3746,7 +3831,8 @@
       "osx"
     ],
     "short_text": "A quiet game of life and loss.",
-    "price": "$12.99"
+    "price": "$12.99",
+    "steamAppId": 828900
   },
   {
     "id": 181186,
@@ -3843,7 +3929,8 @@
     "url": "https://bootdiskrevolution.itch.io/bleed",
     "short_text": "Air-dodge, slow-time and blast baddies in this twin-skick action-platformer!",
     "ratings_count": 24,
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 239800
   },
   {
     "id": 574635,
@@ -3881,7 +3968,8 @@
       "linux"
     ],
     "short_text": "Design & fight with steampunk airships",
-    "price": "$14.99"
+    "price": "$14.99",
+    "steamAppId": 342560
   },
   {
     "id": 41815,
@@ -3901,7 +3989,8 @@
       "linux"
     ],
     "short_text": "/hak/ Fight cute monsters! Avoid death! Save the Game",
-    "price": "$14.99"
+    "price": "$14.99",
+    "steamAppId": 662540
   },
   {
     "id": 7646,
@@ -3921,7 +4010,8 @@
       "linux"
     ],
     "short_text": "a satirical game about online interaction",
-    "price": "$7.99"
+    "price": "$7.99",
+    "steamAppId": 348270
   },
   {
     "id": 303420,
@@ -3939,7 +4029,8 @@
       "windows"
     ],
     "short_text": "Adventures in a Dead MMO",
-    "price": "$6.66"
+    "price": "$6.66",
+    "steamAppId": 1165750
   },
   {
     "id": 24907,
@@ -3958,7 +4049,8 @@
       "osx"
     ],
     "short_text": "A playful, interactive alphabet.",
-    "price": "$5"
+    "price": "$5",
+    "steamAppId": 353280
   },
   {
     "title": "this discord has ghosts in it",
@@ -3991,7 +4083,8 @@
       "osx"
     ],
     "short_text": "A comedy written in the stars",
-    "price": "$9.99"
+    "price": "$9.99",
+    "steamAppId": 742520
   },
   {
     "id": 80001,
@@ -4010,7 +4103,8 @@
       "linux"
     ],
     "short_text": "Long fantasy otome VN about dating cute guys, plus monster girls.",
-    "price": "$7.99"
+    "price": "$7.99",
+    "steamAppId": 521540
   },
   {
     "id": 293199,
@@ -4050,7 +4144,8 @@
       "linux"
     ],
     "short_text": "Explore a city and learn a real language",
-    "price": "$15"
+    "price": "$15",
+    "steamAppId": 860640
   },
   {
     "id": 431,
@@ -4070,7 +4165,8 @@
       "android"
     ],
     "short_text": "An accessible platformer with a focus on a fair challenge.",
-    "price": "$2.99"
+    "price": "$2.99",
+    "steamAppId": 269270
   },
   {
     "id": 573360,
@@ -4090,7 +4186,8 @@
       "linux"
     ],
     "short_text": "Never a bad deal. Always a RAD DEAL!",
-    "price": "$2.99"
+    "price": "$2.99",
+    "steamAppId": 1264800
   },
   {
     "id": 153505,
@@ -4109,7 +4206,8 @@
       "osx"
     ],
     "short_text": "Throw Rocks Plant Trees. Ambient slow game for casual creators. Countryside exploration and creation.",
-    "price": "$9.99"
+    "price": "$9.99",
+    "steamAppId": 872060
   },
   {
     "id": 288338,
@@ -4128,7 +4226,8 @@
       "osx"
     ],
     "short_text": "Full-Length RPG about childhood, family, dreams, and nightmares.",
-    "price": "$15"
+    "price": "$15",
+    "steamAppId": 706560
   },
   {
     "id": 283271,
@@ -4166,7 +4265,8 @@
       "windows"
     ],
     "short_text": "Retro 8-bit spooky Halloween platformer",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 425650
   },
   {
     "id": 85269,
@@ -4186,7 +4286,8 @@
       "linux"
     ],
     "short_text": "Hyperkinetic shooter designed  to make your eyes bleed",
-    "price": "$5.99"
+    "price": "$5.99",
+    "steamAppId": 774561
   },
   {
     "id": 584728,
@@ -4221,7 +4322,8 @@
       "linux"
     ],
     "short_text": "Loving Father. Caring Husband. Secret Octopus.",
-    "price": "$14.99"
+    "price": "$14.99",
+    "steamAppId": 224480
   },
   {
     "id": 539479,
@@ -4262,7 +4364,8 @@
       "android"
     ],
     "short_text": "A puzzle game about snakes in cramped places",
-    "price": "$2.99"
+    "price": "$2.99",
+    "steamAppId": 654810
   },
   {
     "id": 204393,
@@ -4347,7 +4450,8 @@
       "linux"
     ],
     "short_text": "In a creaky old tavern, in a forgotten corner of the video-game universe, a storm is raging...",
-    "price": "$10"
+    "price": "$10",
+    "steamAppId": 510420
   },
   {
     "id": 270,
@@ -4366,7 +4470,8 @@
       "osx"
     ],
     "short_text": "Last Knight is over-the-top jousting action in a beautiful brutal fantasy world!",
-    "price": "5.99€"
+    "price": "5.99€",
+    "steamAppId": 262210
   },
   {
     "title": "Cinco Paus",
@@ -4421,7 +4526,8 @@
     "platforms": [
       "windows",
       "osx"
-    ]
+    ],
+    "steamAppId": 1194740
   },
   {
     "id": 660375,
@@ -4493,7 +4599,8 @@
       "osx"
     ],
     "short_text": "A game about life, loss and hope.",
-    "price": "$7.49"
+    "price": "$7.49",
+    "steamAppId": 581270
   },
   {
     "id": 165031,
@@ -4514,7 +4621,8 @@
       "android"
     ],
     "short_text": "Explore the social life of a young woman whose phone you have just found.",
-    "price": "$2.99"
+    "price": "$2.99",
+    "steamAppId": 689910
   },
   {
     "id": 52859,
@@ -4532,7 +4640,8 @@
       "windows"
     ],
     "short_text": "Please enjoy this interactive exhibition. But not The Button.",
-    "price": "$3.99"
+    "price": "$3.99",
+    "steamAppId": 1166780
   },
   {
     "id": 48200,
@@ -4552,7 +4661,8 @@
       "linux"
     ],
     "short_text": "Fantasy romance visual novel",
-    "price": "$15.99"
+    "price": "$15.99",
+    "steamAppId": 362660
   },
   {
     "id": 305112,
@@ -4658,7 +4768,8 @@
       "android"
     ],
     "short_text": "Programming is Magic",
-    "price": "$10"
+    "price": "$10",
+    "steamAppId": 1103400
   },
   {
     "id": 630457,
@@ -4695,7 +4806,8 @@
       "osx"
     ],
     "short_text": "Master over 100 dungeons and 3 worlds in this dungeon crawler card game.",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 998850
   },
   {
     "id": 304124,
@@ -4755,7 +4867,8 @@
       "linux"
     ],
     "short_text": "The highest selling and most intense restaurant sim ever made is back!",
-    "price": "$12.99"
+    "price": "$12.99",
+    "steamAppId": 386620
   },
   {
     "id": 634534,
@@ -4882,7 +4995,8 @@
     "url": "https://twinbeard.itch.io/glittermitten-grove",
     "short_text": "Grow plants and build treehouses in this magical land of faerie delights!",
     "ratings_count": 18,
-    "price": "$20"
+    "price": "$20",
+    "steamAppId": 536890
   },
   {
     "id": 224352,
@@ -4901,7 +5015,8 @@
       "osx"
     ],
     "short_text": "What if everything you touched was made out of jelly?",
-    "price": "$9.99"
+    "price": "$9.99",
+    "steamAppId": 295750
   },
   {
     "id": 398904,
@@ -5137,7 +5252,8 @@
     "flag": "free",
     "cover": "https://img.itch.zone/aW1hZ2UvMTk2NzEvNzYzNTEucG5n/300x240%23c/Ix1SM1.png",
     "ratings_count": 18,
-    "cover_color": "#eeeeee"
+    "cover_color": "#eeeeee",
+    "steamAppId": 1008070
   },
   {
     "id": 282296,
@@ -5170,7 +5286,8 @@
       "windows"
     ],
     "short_text": "A first person exploration science fiction mystery game. Fathom all the story exploring an abandoned cargo spaceship.",
-    "price": "$9.99"
+    "price": "$9.99",
+    "steamAppId": 622010
   },
   {
     "id": 236728,
@@ -5228,7 +5345,8 @@
       "windows"
     ],
     "short_text": "A story-driven puzzle-adventure set in a mysterious world where art comes to life!",
-    "price": "$3.99"
+    "price": "$3.99",
+    "steamAppId": 566190
   },
   {
     "id": 365553,
@@ -5247,7 +5365,8 @@
       "osx"
     ],
     "short_text": "Unknown and mysterious world surrounded by carefully designed puzzles",
-    "price": "$10"
+    "price": "$10",
+    "steamAppId": 751220
   },
   {
     "id": 266578,
@@ -5267,7 +5386,8 @@
       "linux"
     ],
     "short_text": "Ensure the success of your colony as you make friends and pursue romance with a diverse cast of characters.",
-    "price": "$19.99"
+    "price": "$19.99",
+    "steamAppId": 730050
   },
   {
     "id": 604235,
@@ -5287,7 +5407,8 @@
       "linux"
     ],
     "short_text": "Fight your way through a whales digestive system!",
-    "price": "$5"
+    "price": "$5",
+    "steamAppId": 1267810
   },
   {
     "id": 170689,
@@ -5326,7 +5447,8 @@
       "osx"
     ],
     "short_text": "A Game Boy inspired mini-metroidvania!",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 1013650
   },
   {
     "id": 467924,
@@ -5346,7 +5468,8 @@
       "linux"
     ],
     "short_text": "Climb your way to the top of a strange tower in a strange land",
-    "price": "$2.99"
+    "price": "$2.99",
+    "steamAppId": 871190
   },
   {
     "id": 231767,
@@ -5480,7 +5603,8 @@
       "linux"
     ],
     "short_text": "Make a computer from scratch!",
-    "price": "$14.99"
+    "price": "$14.99",
+    "steamAppId": 684270
   },
   {
     "id": 205734,
@@ -5553,7 +5677,8 @@
       "linux"
     ],
     "short_text": "Escape to a carefree and colorful village where the monsters are your friends.",
-    "price": "$14.99"
+    "price": "$14.99",
+    "steamAppId": 679830
   },
   {
     "id": 441928,
@@ -5572,7 +5697,8 @@
       "osx"
     ],
     "short_text": "Old-School FPS/Metroidvania Hybrid.  Step through a portal to a mysterious world.",
-    "price": "$9.99"
+    "price": "$9.99",
+    "steamAppId": 1071510
   },
   {
     "id": 121013,
@@ -5590,7 +5716,8 @@
       "windows"
     ],
     "short_text": "Metroidvania where you can see the future",
-    "price": "$9.99"
+    "price": "$9.99",
+    "steamAppId": 1005450
   },
   {
     "id": 40431,
@@ -5610,7 +5737,8 @@
       "linux"
     ],
     "short_text": "Become famously incredible or incredibly dead in this choose-your-own-space-adventure!",
-    "price": "$9.99"
+    "price": "$9.99",
+    "steamAppId": 381260
   },
   {
     "id": 189641,
@@ -5630,7 +5758,8 @@
       "linux"
     ],
     "short_text": "Heavy Bullets is a randomized FPS dungeon crawler with limited but reusable ammunition.",
-    "price": "$9.99"
+    "price": "$9.99",
+    "steamAppId": 297120
   },
   {
     "id": 589785,
@@ -5668,7 +5797,8 @@
       "windows",
       "osx",
       "linux"
-    ]
+    ],
+    "steamAppId": 725980
   },
   {
     "id": 590110,
@@ -5688,7 +5818,8 @@
       "linux"
     ],
     "short_text": "A survival horror where your pursuers are pretty and plastic.",
-    "price": "$5"
+    "price": "$5",
+    "steamAppId": 1286980
   },
   {
     "id": 382685,
@@ -5783,7 +5914,8 @@
       "linux"
     ],
     "short_text": "Western Local Multiplayer Quick-Draw Deathmatch",
-    "price": "$10"
+    "price": "$10",
+    "steamAppId": 524650
   },
   {
     "id": 17697,
@@ -5803,7 +5935,8 @@
       "linux"
     ],
     "short_text": "Broken.  Abandoned.  Replaced.",
-    "price": "$9.99"
+    "price": "$9.99",
+    "steamAppId": 675910
   },
   {
     "id": 459619,
@@ -5855,7 +5988,8 @@
       "osx"
     ],
     "short_text": "“Thing-in-Itself” is an interactive short story about the struggles of understanding another human being.",
-    "price": "$2.49"
+    "price": "$2.49",
+    "steamAppId": 569340
   },
   {
     "id": 14531,
@@ -5931,7 +6065,8 @@
     "short_text": "Help Sarah traverse her weird dreams once more!",
     "platforms": [
       "web"
-    ]
+    ],
+    "steamAppId": 1169600
   },
   {
     "user": {
@@ -5964,7 +6099,8 @@
       "osx"
     ],
     "short_text": "Five boys, five animals, more trouble than they're worth.",
-    "price": "$9.99"
+    "price": "$9.99",
+    "steamAppId": 542200
   },
   {
     "id": 75773,
@@ -5983,7 +6119,8 @@
       "osx"
     ],
     "short_text": "marble girl hacks computers, eats cake",
-    "price": "$1.99"
+    "price": "$1.99",
+    "steamAppId": 873390
   },
   {
     "id": 40175,
@@ -6131,7 +6268,8 @@
       "linux"
     ],
     "short_text": "an · autobiographical · game · album",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 467940
   },
   {
     "id": 582335,
@@ -6186,7 +6324,8 @@
       "linux"
     ],
     "short_text": "Sophisticated RPG mystery where methods of discourse hold secret power",
-    "price": "$7.99"
+    "price": "$7.99",
+    "steamAppId": 355530
   },
   {
     "id": 583081,
@@ -6225,7 +6364,8 @@
       "osx"
     ],
     "short_text": "Turn-Based Dungeon Plunger!",
-    "price": "$7.99"
+    "price": "$7.99",
+    "steamAppId": 1128690
   },
   {
     "id": 442208,
@@ -6242,7 +6382,8 @@
     "url": "https://docgeraud.itch.io/un-pas-fragile",
     "short_text": "Follow the journey of Camille, a frog who dreams of becoming a ballet dancer! (IGF award, best student game 2017)",
     "ratings_count": 14,
-    "price": "$2.60"
+    "price": "$2.60",
+    "steamAppId": 1093520
   },
   {
     "id": 33467,
@@ -6262,7 +6403,8 @@
       "linux"
     ],
     "short_text": "Save your kingdom!",
-    "price": "$1.99"
+    "price": "$1.99",
+    "steamAppId": 365120
   },
   {
     "id": 316366,
@@ -6281,7 +6423,8 @@
       "osx"
     ],
     "short_text": "Minimalistic logic challenges",
-    "price": "$5.99"
+    "price": "$5.99",
+    "steamAppId": 1182470
   },
   {
     "id": 174495,
@@ -6353,7 +6496,8 @@
       "windows"
     ],
     "short_text": "\"I need a Heart to open it\"",
-    "price": "$3.99"
+    "price": "$3.99",
+    "steamAppId": 429720
   },
   {
     "id": 321312,
@@ -6440,7 +6584,8 @@
       "linux"
     ],
     "short_text": "Outwit gravity, explore new worlds.",
-    "price": "$5"
+    "price": "$5",
+    "steamAppId": 340450
   },
   {
     "id": 92465,
@@ -6493,7 +6638,8 @@
       "windows"
     ],
     "short_text": "Explore alternate dimensions, fight interdimensional criminals, and solve crimes in this thrilling action platformer!",
-    "price": "$19.99"
+    "price": "$19.99",
+    "steamAppId": 838010
   },
   {
     "id": 127979,
@@ -6548,7 +6694,8 @@
       "linux"
     ],
     "short_text": "Award-winning adventure where you control the news and its impact on society, your friends and career.",
-    "price": "$13.99"
+    "price": "$13.99",
+    "steamAppId": 918820
   },
   {
     "id": 53242,
@@ -6566,7 +6713,8 @@
       "windows"
     ],
     "short_text": "Now you’re the new apprentice for Death. And it's your job to help gather souls.",
-    "price": "$2.99"
+    "price": "$2.99",
+    "steamAppId": 502100
   },
   {
     "id": 59852,
@@ -6604,7 +6752,8 @@
       "windows"
     ],
     "short_text": "Grab a cup of coffee and relax with a good puzzle",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 682230
   },
   {
     "id": 598162,
@@ -6701,7 +6850,8 @@
       "osx"
     ],
     "short_text": "Rhythm horror game exploring anxiety on stage",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 771470
   },
   {
     "id": 555485,
@@ -6819,7 +6969,8 @@
       "linux"
     ],
     "short_text": "Rad Raygun must travel the world fighting communist robots and save the 1980′s by shooting his way through the decade.",
-    "price": "$5"
+    "price": "$5",
+    "steamAppId": 297660
   },
   {
     "id": 139735,
@@ -6854,7 +7005,8 @@
       "linux"
     ],
     "short_text": "Leave home. Start anew. Punch racists.",
-    "price": "$15"
+    "price": "$15",
+    "steamAppId": 668200
   },
   {
     "id": 279704,
@@ -6892,7 +7044,8 @@
       "linux"
     ],
     "short_text": "A game about draggin' out doggos.",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 578430
   },
   {
     "id": 20652,
@@ -6912,7 +7065,8 @@
       "linux"
     ],
     "short_text": "The Interdimensional Puzzle Platformer",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 325060
   },
   {
     "id": 112260,
@@ -6932,7 +7086,8 @@
       "linux"
     ],
     "short_text": "A short open-world platformer.",
-    "price": "$2.99"
+    "price": "$2.99",
+    "steamAppId": 699150
   },
   {
     "id": 475894,
@@ -6986,7 +7141,8 @@
     "short_text": "An atmospheric puzzle game based around losing touch with reality,",
     "platforms": [
       "web"
-    ]
+    ],
+    "steamAppId": 1049070
   },
   {
     "id": 340695,
@@ -7114,7 +7270,8 @@
       "windows"
     ],
     "short_text": "Gilbert is a very curious cat who loves to go on adventures.",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 740040
   },
   {
     "id": 445419,
@@ -7151,7 +7308,8 @@
       "windows"
     ],
     "short_text": "Catch Monsters and fuse them together in Bullet-Hell combat!",
-    "price": "$5"
+    "price": "$5",
+    "steamAppId": 1025160
   },
   {
     "id": 323956,
@@ -7206,7 +7364,8 @@
     "url": "https://juicybeast.itch.io/knightmare-tower",
     "cover": "https://img.itch.zone/aW1hZ2UvMTA5NjcvMzM0NzMucG5n/300x240%23c/VFG41W.png",
     "ratings_count": 12,
-    "price": "$3.99"
+    "price": "$3.99",
+    "steamAppId": 298400
   },
   {
     "id": 11688,
@@ -7263,7 +7422,8 @@
       "linux"
     ],
     "short_text": "Ruby the ghost hunter has a tough gig this Halloween. Explore the mansion, battle spooky bosses, and rescue lost cats!",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 820620
   },
   {
     "id": 123218,
@@ -7282,7 +7442,8 @@
       "linux"
     ],
     "short_text": "Jet-combat roguelite, occasionally with swords.",
-    "price": "$10"
+    "price": "$10",
+    "steamAppId": 842170
   },
   {
     "id": 491813,
@@ -7300,7 +7461,8 @@
       "windows"
     ],
     "short_text": "Virtual Relaxation Software",
-    "price": "$3"
+    "price": "$3",
+    "steamAppId": 1220690
   },
   {
     "id": 518472,
@@ -7340,7 +7502,8 @@
       "linux"
     ],
     "short_text": "Turn the nightmares of the past into a fantastical dream made real.",
-    "price": "$8"
+    "price": "$8",
+    "steamAppId": 1156630
   },
   {
     "id": 103404,
@@ -7359,7 +7522,8 @@
       "osx"
     ],
     "short_text": "Your character and the world it inhabits is made of playdough",
-    "price": "$9.99"
+    "price": "$9.99",
+    "steamAppId": 700160
   },
   {
     "id": 193342,
@@ -7378,7 +7542,8 @@
       "osx"
     ],
     "short_text": "We're counting on you, to fix this city!!!!!!",
-    "price": "$6"
+    "price": "$6",
+    "steamAppId": 855530
   },
   {
     "id": 437264,
@@ -7415,7 +7580,8 @@
       "osx"
     ],
     "short_text": "A space game about swinging trash into things and dying",
-    "price": "$4"
+    "price": "$4",
+    "steamAppId": 295690
   },
   {
     "id": 492048,
@@ -7453,7 +7619,8 @@
       "linux"
     ],
     "short_text": "Convince your future self of the wrongness of their actions.",
-    "price": "$2.99"
+    "price": "$2.99",
+    "steamAppId": 1030580
   },
   {
     "id": 177413,
@@ -7494,7 +7661,8 @@
       "osx",
       "linux",
       "android"
-    ]
+    ],
+    "steamAppId": 863400
   },
   {
     "id": 390761,
@@ -7528,7 +7696,8 @@
       "osx"
     ],
     "short_text": "Head-to-head puzzle brawling action!!",
-    "price": "$5"
+    "price": "$5",
+    "steamAppId": 751490
   },
   {
     "id": 437320,
@@ -7606,7 +7775,8 @@
       "windows"
     ],
     "short_text": "Overcome death. Save your friends. Solve the mystery.",
-    "price": "$20"
+    "price": "$20",
+    "steamAppId": 1052640
   },
   {
     "id": 175763,
@@ -7761,7 +7931,8 @@
       "linux"
     ],
     "short_text": "Mable & The Wood is a Metroidvania where you can take the form of the bosses that you kill.",
-    "price": "$14.99"
+    "price": "$14.99",
+    "steamAppId": 568070
   },
   {
     "id": 432879,
@@ -7795,7 +7966,8 @@
       "osx"
     ],
     "short_text": "An action-adventure game about digging for fossils and building your own dinosaurs!",
-    "price": "$14.99"
+    "price": "$14.99",
+    "steamAppId": 690150
   },
   {
     "id": 26170,
@@ -7835,7 +8007,8 @@
       "linux"
     ],
     "short_text": "50% Man. 50% Clam. 100% sort of funny.",
-    "price": "$9.99"
+    "price": "$9.99",
+    "steamAppId": 1000640
   },
   {
     "id": 316936,
@@ -7904,7 +8077,8 @@
     "url": "https://worldchampgameco.itch.io/aurora",
     "short_text": "A Modular TTRPG of Oracles & Overcoming",
     "ratings_count": 10,
-    "price": "$5.99"
+    "price": "$5.99",
+    "steamAppId": 973260
   },
   {
     "id": 435145,
@@ -8154,7 +8328,8 @@
       "osx",
       "linux",
       "android"
-    ]
+    ],
+    "steamAppId": 870190
   },
   {
     "id": 659164,
@@ -8209,7 +8384,8 @@
       "osx"
     ],
     "short_text": "Deviously cooperative runner/puzzle platformer for 1-4 players.",
-    "price": "$14.99"
+    "price": "$14.99",
+    "steamAppId": 747620
   },
   {
     "id": 342965,
@@ -8260,7 +8436,8 @@
       "windows"
     ],
     "short_text": "An epic quest, inspired by point & click adventure classics, Far-East legends & beat em up games of the 80's!",
-    "price": "$6.99"
+    "price": "$6.99",
+    "steamAppId": 595560
   },
   {
     "id": 5988,
@@ -8279,7 +8456,8 @@
       "osx"
     ],
     "short_text": "Zap polygon baddies in a neon, geometric glitch world.",
-    "price": "$10"
+    "price": "$10",
+    "steamAppId": 360530
   },
   {
     "id": 204087,
@@ -8319,7 +8497,8 @@
       "linux"
     ],
     "short_text": "A minimalistic 2D platformer about a cat with the ability to transform into liquid.",
-    "price": "$1"
+    "price": "$1",
+    "steamAppId": 498330
   },
   {
     "id": 120345,
@@ -8339,7 +8518,8 @@
       "linux"
     ],
     "short_text": "This gravity-defying 3D Platformer takes you on a surreal trip through a twisted virtual network.",
-    "price": "$6.99"
+    "price": "$6.99",
+    "steamAppId": 563810
   },
   {
     "id": 128115,
@@ -8357,7 +8537,8 @@
       "windows"
     ],
     "short_text": "A fast paced platformer about swinging through the air at the speed of sound!",
-    "price": "$15"
+    "price": "$15",
+    "steamAppId": 595080
   },
   {
     "id": 72395,
@@ -8395,7 +8576,8 @@
       "linux"
     ],
     "short_text": "Solve turn-based puzzles on haunted city rooftops.",
-    "price": "$2.99"
+    "price": "$2.99",
+    "steamAppId": 756790
   },
   {
     "id": 21459,
@@ -8415,7 +8597,8 @@
       "linux"
     ],
     "short_text": "An atmospheric first person shooter set aboard a deserted starship in an alternate 1980s.",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 312230
   },
   {
     "id": 613288,
@@ -8560,7 +8743,8 @@
       "windows"
     ],
     "short_text": "Four Sided Fantasy uses screen-wrap to break the limits of your screen.",
-    "price": "$9.99"
+    "price": "$9.99",
+    "steamAppId": 337490
   },
   {
     "id": 451346,
@@ -8594,7 +8778,8 @@
       "osx"
     ],
     "short_text": "A comedy RPG where you play as 99 characters at once.",
-    "price": "$14.99"
+    "price": "$14.99",
+    "steamAppId": 1176040
   },
   {
     "id": 373685,
@@ -8710,7 +8895,8 @@
     "url": "https://brain-connected.itch.io/portal-dogs",
     "short_text": "In the puzzle platformer Portal Dogs, a horde of dogs are following their king through the portal world.",
     "ratings_count": 9,
-    "price": "$3.99"
+    "price": "$3.99",
+    "steamAppId": 1183200
   },
   {
     "id": 240297,
@@ -8727,7 +8913,8 @@
       "web"
     ],
     "short_text": "You are an intrepid explorer hunting for artifacts. Can you survive? A little game for the archaeology bitsy jam.",
-    "flag": "web"
+    "flag": "web",
+    "steamAppId": 992860
   },
   {
     "id": 12496,
@@ -8768,7 +8955,8 @@
       "android"
     ],
     "short_text": "Ninjas, failure, and player investment manipulation.",
-    "price": "$1"
+    "price": "$1",
+    "steamAppId": 334350
   },
   {
     "id": 10549,
@@ -8805,7 +8993,8 @@
       "linux"
     ],
     "short_text": "​Trawl the sea to discover what secrets are hidden in its depths and record your findings on your typewriter.",
-    "price": "$6.99"
+    "price": "$6.99",
+    "steamAppId": 446240
   },
   {
     "id": 448615,
@@ -8903,7 +9092,8 @@
       "linux"
     ],
     "short_text": "A Turn Based Tactical RPG Soccer Game for Windows, macOS and Linux developed by rese.",
-    "price": "$9.99"
+    "price": "$9.99",
+    "steamAppId": 419990
   },
   {
     "id": 322138,
@@ -8921,7 +9111,8 @@
       "windows"
     ],
     "short_text": "STEP INTO THE DREAMSCAPE",
-    "price": "5.00€"
+    "price": "5.00€",
+    "steamAppId": 977810
   },
   {
     "id": 674,
@@ -8942,7 +9133,8 @@
       "android"
     ],
     "short_text": "Steam Key + DRM Free Android, Windows, Mac, Linux.",
-    "price": "$3"
+    "price": "$3",
+    "steamAppId": 266010
   },
   {
     "id": 50467,
@@ -8962,7 +9154,8 @@
       "linux"
     ],
     "short_text": "The new dualism in platforming",
-    "price": "$12.99"
+    "price": "$12.99",
+    "steamAppId": 277700
   },
   {
     "id": 393234,
@@ -8981,7 +9174,8 @@
       "osx"
     ],
     "short_text": "A story-driven game about a gay hero who falls in love with his best friend while the world unravels around them.",
-    "price": "$8.99"
+    "price": "$8.99",
+    "steamAppId": 893790
   },
   {
     "id": 155054,
@@ -9034,7 +9228,8 @@
       "osx"
     ],
     "short_text": "It's a long walk home...",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 1160440
   },
   {
     "id": 271280,
@@ -9052,7 +9247,8 @@
       "windows"
     ],
     "short_text": "A game about forgiveness",
-    "price": "$14.99"
+    "price": "$14.99",
+    "steamAppId": 666810
   },
   {
     "id": 517947,
@@ -9107,7 +9303,8 @@
       "linux"
     ],
     "short_text": "Chain ghosts together then pop them all at once for points in an endless 'bullet hell' arcade apocalypse!",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 1047580
   },
   {
     "id": 43945,
@@ -9125,7 +9322,8 @@
       "windows"
     ],
     "short_text": "The definitive version of the classic, pixel jump-and-shoot Adventure for PC.",
-    "price": "$2.99"
+    "price": "$2.99",
+    "steamAppId": 453810
   },
   {
     "id": 60598,
@@ -9180,7 +9378,8 @@
       "windows"
     ],
     "short_text": "Once upon a time, Peet opened his eyes and found himself in a nightmare.",
-    "price": "$14.99"
+    "price": "$14.99",
+    "steamAppId": 733210
   },
   {
     "id": 518642,
@@ -9388,7 +9587,8 @@
     "short_text": "A Victorian Steampunk RPG! Debate, convince and negotiate with NPCs in order to save the country!",
     "platforms": [
       "windows"
-    ]
+    ],
+    "steamAppId": 631860
   },
   {
     "id": 627788,
@@ -9422,7 +9622,8 @@
       "osx"
     ],
     "short_text": "A digging, jetpacking, plant-watering puzzle game.",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 467170
   },
   {
     "id": 46460,
@@ -9482,7 +9683,8 @@
     "url": "https://l-a-wilga.itch.io/sundown",
     "short_text": "Cyberpunk goes Wild West in this transhumanist science fantasy frontier.",
     "ratings_count": 8,
-    "price": "$15"
+    "price": "$15",
+    "steamAppId": 505350
   },
   {
     "id": 467810,
@@ -9517,7 +9719,8 @@
       "linux"
     ],
     "short_text": "Retro-style RPG about being a programmer",
-    "price": "$9.99"
+    "price": "$9.99",
+    "steamAppId": 1064690
   },
   {
     "id": 392888,
@@ -9537,7 +9740,8 @@
       "linux"
     ],
     "short_text": "A game about the dragon within us all. Become Draak, and rejoice.",
-    "price": "$19.99"
+    "price": "$19.99",
+    "steamAppId": 1065100
   },
   {
     "id": 633072,
@@ -9600,7 +9804,8 @@
       "windows"
     ],
     "short_text": "Silly Exploration Platform Adventure",
-    "price": "£1"
+    "price": "£1",
+    "steamAppId": 496120
   },
   {
     "id": 578510,
@@ -9818,7 +10023,8 @@
       "windows"
     ],
     "short_text": "Escape Eternal Punishment",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 612160
   },
   {
     "id": 299918,
@@ -9837,7 +10043,8 @@
       "osx"
     ],
     "short_text": "A creativity-driven RPG about a rundown theatre and pleasing its unruly clientele.",
-    "price": "$4"
+    "price": "$4",
+    "steamAppId": 802930
   },
   {
     "id": 75594,
@@ -9876,7 +10083,8 @@
       "osx"
     ],
     "short_text": "Meditate in bullet heaven (Soundtrack & Steam key included, free demo)",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 337650
   },
   {
     "id": 307411,
@@ -9908,7 +10116,8 @@
     "url": "https://graffiti-games.itch.io/the-kings-bird",
     "cover": "https://img.itch.zone/aW1nLzE4OTMxNzcucG5n/300x240%23c/kvOci1.png",
     "ratings_count": 7,
-    "price": "$19.99"
+    "price": "$19.99",
+    "steamAppId": 812550
   },
   {
     "id": 400086,
@@ -9927,7 +10136,8 @@
       "osx"
     ],
     "short_text": "A charming point-and-click adventure about tabletop gaming, mischievous friends, and spectral poultry.",
-    "price": "$9.99"
+    "price": "$9.99",
+    "steamAppId": 899470
   },
   {
     "id": 165704,
@@ -9966,7 +10176,8 @@
       "linux"
     ],
     "short_text": "FLAMBERGE is a turn-based tactics RPG featuring free movement and simultaneous turns.",
-    "price": "$10"
+    "price": "$10",
+    "steamAppId": 355420
   },
   {
     "id": 189047,
@@ -9986,7 +10197,8 @@
       "linux"
     ],
     "short_text": "A psychological murder mystery set in 90s Japan.",
-    "price": "$6.99"
+    "price": "$6.99",
+    "steamAppId": 746420
   },
   {
     "id": 165515,
@@ -10005,7 +10217,8 @@
       "osx"
     ],
     "short_text": "An anti-coin collectable platformer inspired by Japanese folktales.",
-    "price": "$7"
+    "price": "$7",
+    "steamAppId": 848930
   },
   {
     "id": 397417,
@@ -10023,7 +10236,8 @@
       "windows"
     ],
     "short_text": "A face-melting, pixel-pumping arcade shoot 'em up",
-    "price": "$4"
+    "price": "$4",
+    "steamAppId": 640880
   },
   {
     "id": 399237,
@@ -10073,7 +10287,8 @@
       "linux"
     ],
     "short_text": "A game about life, family, and the choices we make.",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 245150
   },
   {
     "id": 45769,
@@ -10092,7 +10307,8 @@
       "osx"
     ],
     "short_text": "Nighttime exploration of an eccentric town in the Peruvian desert",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 406730
   },
   {
     "id": 36931,
@@ -10112,7 +10328,8 @@
       "linux"
     ],
     "short_text": "A stealth-action metroidvania",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 356580
   },
   {
     "id": 19731,
@@ -10150,7 +10367,8 @@
       "windows"
     ],
     "short_text": "STARDROP - Salvage and Rescue Operations",
-    "price": "$19.99"
+    "price": "$19.99",
+    "steamAppId": 552880
   },
   {
     "id": 246828,
@@ -10169,7 +10387,8 @@
       "osx"
     ],
     "short_text": "The rhythm-music gameplay of BIT.TRIP RUNNER and Runner2 is back and better than ever!",
-    "price": "$19.99"
+    "price": "$19.99",
+    "steamAppId": 516130
   },
   {
     "id": 116429,
@@ -10189,7 +10408,8 @@
       "linux"
     ],
     "short_text": "A great war has began... but you have nothing to do with it",
-    "price": "3.99€"
+    "price": "3.99€",
+    "steamAppId": 567780
   },
   {
     "id": 545729,
@@ -10207,7 +10427,8 @@
       "windows"
     ],
     "short_text": "Turn-based deckbuilding roguelike featuring neither deck nor cards",
-    "price": "$8.99"
+    "price": "$8.99",
+    "steamAppId": 1264010
   },
   {
     "id": 446484,
@@ -10283,7 +10504,8 @@
       "linux"
     ],
     "short_text": "They Bleed Pixels is a fiendishly difficult platforming slash'em up inspired by weird fiction and gothic horror.",
-    "price": "$9.99"
+    "price": "$9.99",
+    "steamAppId": 211260
   },
   {
     "id": 88340,
@@ -10321,7 +10543,8 @@
       "osx"
     ],
     "short_text": "a transhumanist adventure",
-    "price": "$10"
+    "price": "$10",
+    "steamAppId": 404420
   },
   {
     "id": 469038,
@@ -10422,7 +10645,8 @@
     "url": "https://sandypuggames.itch.io/destined",
     "short_text": "A 5 page luxury TTRPG experience",
     "ratings_count": 7,
-    "price": "$50"
+    "price": "$50",
+    "steamAppId": 827860
   },
   {
     "user": {
@@ -10517,7 +10741,8 @@
       "windows"
     ],
     "short_text": "Stick figure armies battling in a notebook, just like you used to draw in class instead of paying attention!",
-    "price": "$7"
+    "price": "$7",
+    "steamAppId": 1020450
   },
   {
     "id": 479761,
@@ -10568,7 +10793,8 @@
       "windows"
     ],
     "short_text": "2017 // Post-Reality Racing",
-    "price": "$5"
+    "price": "$5",
+    "steamAppId": 768580
   },
   {
     "id": 120121,
@@ -10588,7 +10814,8 @@
       "linux"
     ],
     "short_text": "NEXT JUMP is a turn-based, tactics Shoot 'em up for people who are bad at SHMUPs, but love them.",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 624690
   },
   {
     "id": 523471,
@@ -10621,7 +10848,8 @@
       "windows"
     ],
     "short_text": "Welcome to Spooky Station! A Halloween-themed game pack for all ages.",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 700100
   },
   {
     "id": 315941,
@@ -10640,7 +10868,8 @@
       "linux"
     ],
     "short_text": "A realistic space sim for PC",
-    "price": "$15"
+    "price": "$15",
+    "steamAppId": 681330
   },
   {
     "id": 310266,
@@ -10727,7 +10956,8 @@
       "windows"
     ],
     "short_text": "90s 16-bit YM2612 Shooter Strikes Back!",
-    "price": "$8.99"
+    "price": "$8.99",
+    "steamAppId": 466820
   },
   {
     "id": 2470,
@@ -10748,7 +10978,8 @@
       "android"
     ],
     "short_text": "Raise your shield.",
-    "price": "$3.99"
+    "price": "$3.99",
+    "steamAppId": 340520
   },
   {
     "id": 89387,
@@ -10767,7 +10998,8 @@
       "osx"
     ],
     "short_text": "a fast paced two-player mind sport",
-    "price": "$14.99"
+    "price": "$14.99",
+    "steamAppId": 546100
   },
   {
     "id": 395691,
@@ -10787,7 +11019,8 @@
       "linux"
     ],
     "short_text": "Help Beracus and Lee escape an underground bunker filled with cultist skeletons!",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 1194160
   },
   {
     "id": 156379,
@@ -10805,7 +11038,8 @@
       "windows"
     ],
     "short_text": "Play as a snarky Witch on a quest to steal the greatest magical grimoire from the last Immortal warrior.",
-    "price": "$19.99"
+    "price": "$19.99",
+    "steamAppId": 675480
   },
   {
     "id": 570113,
@@ -10859,7 +11093,8 @@
       "osx"
     ],
     "short_text": "A Brain-Melting Platformer",
-    "price": "$5"
+    "price": "$5",
+    "steamAppId": 390610
   },
   {
     "id": 131126,
@@ -10879,7 +11114,8 @@
       "linux"
     ],
     "short_text": "Turn your world upside-down!",
-    "price": "$9.99"
+    "price": "$9.99",
+    "steamAppId": 18700
   },
   {
     "id": 640283,
@@ -10950,7 +11186,8 @@
       "linux"
     ],
     "short_text": "A narrative driven boss-rush adventure game with 4 playable characters and multiple endings.",
-    "price": "$9.99"
+    "price": "$9.99",
+    "steamAppId": 980480
   },
   {
     "id": 445382,
@@ -11221,7 +11458,8 @@
       "windows"
     ],
     "short_text": "Having inherited Cascade Manor, you decide to convert it into an inn. But is there more to the manor than meets the eye?",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 1327820
   },
   {
     "id": 476209,
@@ -11293,7 +11531,8 @@
       "windows"
     ],
     "short_text": "the bitesize pixel art action RPG where your sword keeps getting bigger!",
-    "price": "$7.99"
+    "price": "$7.99",
+    "steamAppId": 749110
   },
   {
     "id": 283494,
@@ -11313,7 +11552,8 @@
       "linux"
     ],
     "short_text": "An abstract, color-based puzzle platformer.",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 594810
   },
   {
     "id": 582176,
@@ -11427,7 +11667,8 @@
       "windows"
     ],
     "short_text": "Solve the problems that you will find along the way with the Platformer gun, create your own solutions and answers!",
-    "price": "$2"
+    "price": "$2",
+    "steamAppId": 1138810
   },
   {
     "user": {
@@ -11620,7 +11861,8 @@
       "osx"
     ],
     "short_text": "2014 // A collection of five games + album",
-    "price": "$3"
+    "price": "$3",
+    "steamAppId": 353300
   },
   {
     "id": 281476,
@@ -11639,7 +11881,8 @@
       "osx"
     ],
     "short_text": "A football game about poets & crooks",
-    "price": "$9.99"
+    "price": "$9.99",
+    "steamAppId": 876190
   },
   {
     "id": 183811,
@@ -11676,7 +11919,8 @@
       "windows"
     ],
     "short_text": "Discover a terrible secret hidden inside your computer.",
-    "price": "$2"
+    "price": "$2",
+    "steamAppId": 616690
   },
   {
     "id": 58778,
@@ -11733,7 +11977,8 @@
       "linux"
     ],
     "short_text": "A quick-play roguelike",
-    "price": "$3.99"
+    "price": "$3.99",
+    "steamAppId": 764370
   },
   {
     "id": 405446,
@@ -11751,7 +11996,8 @@
       "windows"
     ],
     "short_text": "Change the environment to guide herds of animals and restore their home in this colourful narrative puzzle game.",
-    "price": "$19.99"
+    "price": "$19.99",
+    "steamAppId": 877440
   },
   {
     "id": 356260,
@@ -11769,7 +12015,8 @@
       "windows"
     ],
     "short_text": "Nail the perfect line in the future's most challenging stunt sport!",
-    "price": "$9.99"
+    "price": "$9.99",
+    "steamAppId": 355820
   },
   {
     "id": 250337,
@@ -11788,7 +12035,8 @@
       "linux"
     ],
     "short_text": "A fangirl helps her much-beloved idol find her missing programmer.",
-    "price": "$10.99"
+    "price": "$10.99",
+    "steamAppId": 829210
   },
   {
     "id": 224477,
@@ -11807,7 +12055,8 @@
       "osx"
     ],
     "short_text": "1-4 Player Cheerleading via Telegraph, Remastered",
-    "price": "$1.99"
+    "price": "$1.99",
+    "steamAppId": 797570
   },
   {
     "id": 174401,
@@ -11827,7 +12076,8 @@
       "linux"
     ],
     "short_text": "You wake up with no memory. Your day is starting off great!",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 789570
   },
   {
     "id": 459430,
@@ -11874,7 +12124,8 @@
     "url": "https://goldengeargames.itch.io/fate-tectonics",
     "cover": "https://img.itch.zone/aW1hZ2UvNDAzMzMvMTg4NjYyLnBuZw==/300x240%23c/RZJ66g.png",
     "short_text": "Build up a world piece-by-piece while balancing the tempers of the Fates",
-    "price": "$5.69"
+    "price": "$5.69",
+    "steamAppId": 379530
   },
   {
     "id": 455714,
@@ -11893,7 +12144,8 @@
       "linux"
     ],
     "short_text": "Short adventure where you are a News Editor deciding what to publish, in a genetically-modified society.",
-    "price": "$2.99"
+    "price": "$2.99",
+    "steamAppId": 680980
   },
   {
     "id": 383121,
@@ -11930,7 +12182,8 @@
       "osx"
     ],
     "short_text": "A frantic stealth game about searching for new pants",
-    "price": "$2.99"
+    "price": "$2.99",
+    "steamAppId": 752550
   },
   {
     "id": 433108,
@@ -11963,7 +12216,8 @@
       "windows"
     ],
     "short_text": "An interactive comic about a man who spends his entire life in a 24/7 diner",
-    "price": "$1.99"
+    "price": "$1.99",
+    "steamAppId": 663240
   },
   {
     "id": 242461,
@@ -11982,7 +12236,8 @@
       "osx"
     ],
     "short_text": "Minigolf in space!",
-    "price": "$2.99"
+    "price": "$2.99",
+    "steamAppId": 856100
   },
   {
     "id": 610114,
@@ -12000,7 +12255,8 @@
       "windows"
     ],
     "short_text": "Blast your way past a large variety of bosses in this intense boss-focused run-and-gun platformer!",
-    "price": "$14.99"
+    "price": "$14.99",
+    "steamAppId": 1267870
   },
   {
     "id": 210233,
@@ -12037,7 +12293,8 @@
       "osx"
     ],
     "short_text": "If every step was one year of your life, which path would you take?",
-    "price": "$5.99"
+    "price": "$5.99",
+    "steamAppId": 295590
   },
   {
     "id": 94490,
@@ -12056,7 +12313,8 @@
       "osx"
     ],
     "short_text": "Spooky & cute FPS!",
-    "price": "$1"
+    "price": "$1",
+    "steamAppId": 511190
   },
   {
     "id": 641226,
@@ -12272,7 +12530,8 @@
     "url": "https://jeeyonshim.itch.io/solitaire",
     "cover": "https://img.itch.zone/aW1nLzI2ODk2MTYucG5n/300x240%23cb/VazfJH.png",
     "short_text": "a collection of solitaire games for you, the player",
-    "price": "$12"
+    "price": "$12",
+    "steamAppId": 748540
   },
   {
     "id": 517592,
@@ -12341,7 +12600,8 @@
       "android"
     ],
     "short_text": "A small space game.",
-    "price": "$1"
+    "price": "$1",
+    "steamAppId": 1188000
   },
   {
     "id": 358069,
@@ -12545,7 +12805,8 @@
       "linux"
     ],
     "short_text": "A 2D platformer about a liquid cat and her friends.",
-    "price": "$1.99"
+    "price": "$1.99",
+    "steamAppId": 1188080
   },
   {
     "user": {
@@ -12580,7 +12841,8 @@
       "android"
     ],
     "short_text": "A fusion of puzzle and rhythm gameplay.",
-    "price": "$1"
+    "price": "$1",
+    "steamAppId": 290380
   },
   {
     "id": 469000,
@@ -12762,7 +13024,8 @@
       "windows"
     ],
     "short_text": "Rock n' Rush its a Multiplayer Combat Racing Game inspired by the 90's classics.",
-    "price": "$1"
+    "price": "$1",
+    "steamAppId": 871390
   },
   {
     "id": 460822,
@@ -12797,7 +13060,8 @@
       "linux"
     ],
     "short_text": "Quick and fun 2D puzzle high-score game.",
-    "price": "$1.49"
+    "price": "$1.49",
+    "steamAppId": 352210
   },
   {
     "id": 569206,
@@ -13067,7 +13331,8 @@
       "osx"
     ],
     "short_text": "a deadly game of hide and seek",
-    "price": "$7"
+    "price": "$7",
+    "steamAppId": 404400
   },
   {
     "id": 86573,
@@ -13087,7 +13352,8 @@
       "linux"
     ],
     "short_text": "In this interactive sci-fi adventure novel, you are the AI pilot of Earth's last interstellar ship.",
-    "price": "$8"
+    "price": "$8",
+    "steamAppId": 426290
   },
   {
     "id": 626019,
@@ -13143,7 +13409,8 @@
       "windows"
     ],
     "short_text": "Choose your heroes, build your deck, and save Vitrerran.",
-    "price": "$14.99"
+    "price": "$14.99",
+    "steamAppId": 802190
   },
   {
     "id": 13423,
@@ -13163,7 +13430,8 @@
       "linux"
     ],
     "short_text": "Cozy/crazy couch co-op puzzle game for one to four players",
-    "price": "$9.99"
+    "price": "$9.99",
+    "steamAppId": 652360
   },
   {
     "id": 170906,
@@ -13182,7 +13450,8 @@
       "osx"
     ],
     "short_text": "Competitive Interactive Adventure Game",
-    "price": "$3.99"
+    "price": "$3.99",
+    "steamAppId": 656040
   },
   {
     "id": 331869,
@@ -13203,7 +13472,8 @@
       "android"
     ],
     "short_text": "Travel through time with big, punchy monsters in this 16-bit style RPG!",
-    "price": "$9.99"
+    "price": "$9.99",
+    "steamAppId": 611710
   },
   {
     "id": 576082,
@@ -13223,7 +13493,8 @@
       "linux"
     ],
     "short_text": "Manage a fleet across a dangerous galaxy! Battle in space, and on planets.",
-    "price": "$9.99"
+    "price": "$9.99",
+    "steamAppId": 280360
   },
   {
     "id": 107364,
@@ -13275,7 +13546,8 @@
       "osx"
     ],
     "short_text": "Play the classic platformer you never knew existed!",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 800190
   },
   {
     "id": 180915,
@@ -13294,7 +13566,8 @@
       "osx"
     ],
     "short_text": "A 2D point and click adventure game set in a fantasy world, inspired by ancient mythology and medieval folklore.",
-    "price": "$9.99"
+    "price": "$9.99",
+    "steamAppId": 677850
   },
   {
     "id": 581365,
@@ -13332,7 +13605,8 @@
       "linux"
     ],
     "short_text": "Turn- and hex-based 5 minute strategy game for 1 or 2 players.",
-    "price": "$14.99"
+    "price": "$14.99",
+    "steamAppId": 656400
   },
   {
     "id": 183826,
@@ -13370,7 +13644,8 @@
     "url": "https://kittylambda.itch.io/the-real-texas",
     "short_text": "\"These days, folks have a lot of funny ideas about what makes a Real Cowboy...\"",
     "ratings_count": 4,
-    "price": "$14.99"
+    "price": "$14.99",
+    "steamAppId": 261900
   },
   {
     "id": 497621,
@@ -13405,7 +13680,8 @@
       "linux"
     ],
     "short_text": "Ruin everything",
-    "price": "$3.99"
+    "price": "$3.99",
+    "steamAppId": 333540
   },
   {
     "id": 254875,
@@ -13442,7 +13718,8 @@
       "windows"
     ],
     "short_text": "First Person Shooter mixed with Poetry and Psychological-Horror",
-    "price": "12.99€"
+    "price": "12.99€",
+    "steamAppId": 655730
   },
   {
     "id": 186472,
@@ -13461,7 +13738,8 @@
       "osx"
     ],
     "short_text": "A short video game musical consisting of several original interactive songs, featuring a full cast and live band.",
-    "price": "$2.99"
+    "price": "$2.99",
+    "steamAppId": 701730
   },
   {
     "id": 8269,
@@ -13533,7 +13811,8 @@
       "osx"
     ],
     "short_text": "Beautifully simple. Endlessly challenging.",
-    "price": "$7.99"
+    "price": "$7.99",
+    "steamAppId": 1117360
   },
   {
     "id": 88172,
@@ -13572,7 +13851,8 @@
       "osx"
     ],
     "short_text": "A story-driven adventure game about a haunted bed & breakfast. A dead & breakfast!",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 473920
   },
   {
     "title": "Godsend",
@@ -13586,7 +13866,8 @@
     "cover_color": "#cef7f5",
     "url": "https://ufo-mina.itch.io/godsend",
     "ratings_count": 4,
-    "price": "$9.99"
+    "price": "$9.99",
+    "steamAppId": 949740
   },
   {
     "id": 194668,
@@ -13713,7 +13994,8 @@
       "windows"
     ],
     "short_text": "A 2D top-down Puzzle/Sokoban game to be played in single or local co-op mode",
-    "price": "$1.99"
+    "price": "$1.99",
+    "steamAppId": 670850
   },
   {
     "id": 585235,
@@ -13731,7 +14013,8 @@
       "windows"
     ],
     "short_text": "A non-violent cave exploration game where the environment is the biggest danger",
-    "price": "$19.99"
+    "price": "$19.99",
+    "steamAppId": 812190
   },
   {
     "id": 11215,
@@ -13749,7 +14032,8 @@
       "windows"
     ],
     "short_text": "A frenzied multiplayer party game about colorful characters battling for an egg-laying goat!",
-    "price": "$9.99"
+    "price": "$9.99",
+    "steamAppId": 342920
   },
   {
     "id": 210768,
@@ -13860,7 +14144,8 @@
       "linux"
     ],
     "short_text": "Create and Destroy",
-    "price": "$10"
+    "price": "$10",
+    "steamAppId": 1231540
   },
   {
     "id": 582626,
@@ -13973,7 +14258,8 @@
       "osx"
     ],
     "short_text": "Awaken in a mind you don’t know to a world you can’t remember.",
-    "price": "$3.99"
+    "price": "$3.99",
+    "steamAppId": 448450
   },
   {
     "id": 455302,
@@ -14058,7 +14344,8 @@
       "linux"
     ],
     "short_text": "A minimalist, yet deep, procedurally generated puzzle game.",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 996980
   },
   {
     "user": {
@@ -14105,7 +14392,8 @@
     "url": "https://selkcip.itch.io/locomancer",
     "short_text": "Model train simulator for the HTC Vive and Oculus Rift with Touch",
     "ratings_count": 4,
-    "price": "$14.99"
+    "price": "$14.99",
+    "steamAppId": 490250
   },
   {
     "id": 496383,
@@ -14123,7 +14411,8 @@
       "windows"
     ],
     "short_text": "Procedurally Generated Space Exploration RPG",
-    "price": "$5"
+    "price": "$5",
+    "steamAppId": 1226890
   },
   {
     "user": {
@@ -14152,7 +14441,8 @@
     "url": "https://sandypuggames.itch.io/ego",
     "short_text": "A game about learning to love yourself",
     "ratings_count": 4,
-    "price": "$2.50"
+    "price": "$2.50",
+    "steamAppId": 887790
   },
   {
     "id": 418974,
@@ -14478,7 +14768,8 @@
     "url": "https://michael-klamerus.itch.io/navigator",
     "short_text": "Two people explore a mysterious land for a place rumored to make any dream come true",
     "ratings_count": 4,
-    "price": "$1"
+    "price": "$1",
+    "steamAppId": 896370
   },
   {
     "id": 479133,
@@ -14511,7 +14802,8 @@
       "windows"
     ],
     "short_text": "It's winter and cats are still outside. Cold and alone. Find them and bring them home.",
-    "price": "$2.99"
+    "price": "$2.99",
+    "steamAppId": 816490
   },
   {
     "id": 495352,
@@ -14567,7 +14859,8 @@
     "short_text": "Fight ghosts and ghosts from your past.",
     "platforms": [
       "windows"
-    ]
+    ],
+    "steamAppId": 1110020
   },
   {
     "id": 565339,
@@ -14706,7 +14999,8 @@
       "windows"
     ],
     "short_text": "Affinity is a short, relaxing, minimalist puzzle game.",
-    "price": "$3.99"
+    "price": "$3.99",
+    "steamAppId": 1128610
   },
   {
     "id": 15049,
@@ -14723,7 +15017,8 @@
     "url": "https://marumari.itch.io/the-deer-god",
     "short_text": "A beautiful 3d pixel art game about reincarnation and karma.",
     "ratings_count": 4,
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 328940
   },
   {
     "id": 10449,
@@ -14742,7 +15037,8 @@
     "url": "https://nunodonato.itch.io/autumn",
     "cover": "https://img.itch.zone/aW1hZ2UvMTA0NDkvMzQ2NjgucG5n/300x240%23c/0n9EkU.png",
     "ratings_count": 4,
-    "price": "2.99€"
+    "price": "2.99€",
+    "steamAppId": 473520
   },
   {
     "id": 113947,
@@ -14776,7 +15072,8 @@
       "osx"
     ],
     "short_text": "A warmly wistful adventure about reconnecting nature, friendship and hidden pasts",
-    "price": "$9.99"
+    "price": "$9.99",
+    "steamAppId": 420170
   },
   {
     "id": 174830,
@@ -14796,7 +15093,8 @@
       "linux"
     ],
     "short_text": "Slimy 16-bit style, party-fighting game using any controller in 2-50+ multiplayer matches!",
-    "price": "$14.99"
+    "price": "$14.99",
+    "steamAppId": 706960
   },
   {
     "id": 14578,
@@ -14834,7 +15132,8 @@
       "linux"
     ],
     "short_text": "Wear a wingsuit, fly your body, hug the mountain, try again",
-    "price": "$1"
+    "price": "$1",
+    "steamAppId": 329190
   },
   {
     "id": 72440,
@@ -14854,7 +15153,8 @@
       "linux"
     ],
     "short_text": "The hidden unit board game of strategy and cunning",
-    "price": "$9.99"
+    "price": "$9.99",
+    "steamAppId": 504750
   },
   {
     "id": 267417,
@@ -14888,7 +15188,8 @@
       "osx"
     ],
     "short_text": "A cyberpunk-themed minigame-packed adventure/beatemup/typing/rhythm game with a soundtrack you can customize!",
-    "price": "$6.99"
+    "price": "$6.99",
+    "steamAppId": 1070990
   },
   {
     "id": 567444,
@@ -14926,7 +15227,8 @@
       "windows"
     ],
     "short_text": "Please Don't Play This Game Too",
-    "price": "$1"
+    "price": "$1",
+    "steamAppId": 871950
   },
   {
     "id": 115627,
@@ -14966,7 +15268,8 @@
       "linux"
     ],
     "short_text": "A pixelated action-adventure about the last living human exploring the submerged Earth.",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 401360
   },
   {
     "id": 323971,
@@ -14984,7 +15287,8 @@
       "windows"
     ],
     "short_text": "Let's put the story back together... again!",
-    "price": "$2.99"
+    "price": "$2.99",
+    "steamAppId": 969690
   },
   {
     "id": 86651,
@@ -15052,7 +15356,8 @@
       "windows"
     ],
     "short_text": "Mutiny Island is an open-world style pirate game. Reclaim your ship, The Red Dawn, by any means!",
-    "price": "$11.50"
+    "price": "$11.50",
+    "steamAppId": 709490
   },
   {
     "id": 167413,
@@ -15070,7 +15375,8 @@
       "windows"
     ],
     "short_text": "An entirely different kind of basketball game. A narrative-driven journey told in four quarters.",
-    "price": "$2.99"
+    "price": "$2.99",
+    "steamAppId": 698770
   },
   {
     "id": 25332,
@@ -15088,7 +15394,8 @@
       "windows"
     ],
     "short_text": "90s Arcade Shooting Hyper Medal Collecting Action",
-    "price": "$8.99"
+    "price": "$8.99",
+    "steamAppId": 402030
   },
   {
     "id": 503279,
@@ -15122,7 +15429,8 @@
       "osx"
     ],
     "short_text": "chaotic slapdown in a dark universe",
-    "price": "$4.44"
+    "price": "$4.44",
+    "steamAppId": 1141920
   },
   {
     "id": 377481,
@@ -15142,7 +15450,8 @@
       "linux"
     ],
     "short_text": "Do you really want to know the upsetting truth?",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 1102510
   },
   {
     "id": 364110,
@@ -15177,7 +15486,8 @@
       "android"
     ],
     "short_text": "Load your guns! Rain death from above!",
-    "price": "$6.99"
+    "price": "$6.99",
+    "steamAppId": 704110
   },
   {
     "id": 243981,
@@ -15246,7 +15556,8 @@
       "windows"
     ],
     "short_text": "Help Marty save his world by understanding it.",
-    "price": "$5.99"
+    "price": "$5.99",
+    "steamAppId": 812360
   },
   {
     "id": 157862,
@@ -15266,7 +15577,8 @@
       "linux"
     ],
     "short_text": "Original puzzle with satisfying explosions",
-    "price": "$1.99"
+    "price": "$1.99",
+    "steamAppId": 664160
   },
   {
     "id": 613848,
@@ -15306,7 +15618,8 @@
       "linux"
     ],
     "short_text": "Horror Point and Click Graphic Adventure",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 720730
   },
   {
     "id": 420235,
@@ -15324,7 +15637,8 @@
       "windows"
     ],
     "short_text": "The buddy cop movie no one asked for.",
-    "price": "$5"
+    "price": "$5",
+    "steamAppId": 1130570
   },
   {
     "user": {
@@ -15358,7 +15672,8 @@
       "linux"
     ],
     "short_text": "Simple but difficult platformer",
-    "price": "$1"
+    "price": "$1",
+    "steamAppId": 652610
   },
   {
     "id": 591191,
@@ -15394,7 +15709,8 @@
       "windows"
     ],
     "short_text": "Dodge the beat and move to the music.",
-    "price": "$7.99"
+    "price": "$7.99",
+    "steamAppId": 247140
   },
   {
     "id": 177826,
@@ -15412,7 +15728,8 @@
       "windows"
     ],
     "short_text": "A puzzle game about relaxing moments in nature as you prepare meals over a warm fire.",
-    "price": "$5.99"
+    "price": "$5.99",
+    "steamAppId": 679500
   },
   {
     "id": 309881,
@@ -15450,7 +15767,8 @@
       "windows"
     ],
     "short_text": "A light-hearted turn-based JRPG, inspired by classics. Battle through waves of enemies and save the world!",
-    "price": "$12"
+    "price": "$12",
+    "steamAppId": 265610
   },
   {
     "id": 271925,
@@ -15470,7 +15788,8 @@
       "linux"
     ],
     "short_text": "Get widgets. Build doohickeys. Do mischief.",
-    "price": "$14.99"
+    "price": "$14.99",
+    "steamAppId": 890480
   },
   {
     "id": 627850,
@@ -15508,7 +15827,8 @@
       "linux"
     ],
     "short_text": "3rd person action-adventure inspired by genre classics of the N64-era.",
-    "price": "$19.99"
+    "price": "$19.99",
+    "steamAppId": 338310
   },
   {
     "id": 360511,
@@ -15526,7 +15846,8 @@
       "windows"
     ],
     "short_text": "the online is a dangerous place. why not simulate it instead?",
-    "price": "$1.99"
+    "price": "$1.99",
+    "steamAppId": 1091400
   },
   {
     "id": 148521,
@@ -15546,7 +15867,8 @@
       "linux"
     ],
     "short_text": "Make music, chimes, and melodies in this musical puzzle game.",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 870400
   },
   {
     "id": 13314,
@@ -15584,7 +15906,8 @@
       "linux"
     ],
     "short_text": "A narrative SHMUP / roguelite",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 533050
   },
   {
     "id": 525675,
@@ -15650,7 +15973,8 @@
       "windows"
     ],
     "short_text": "A single button catformer",
-    "price": "$5.99"
+    "price": "$5.99",
+    "steamAppId": 945580
   },
   {
     "id": 418213,
@@ -15684,7 +16008,8 @@
       "linux"
     ],
     "short_text": "The Valley of Super Flowers is a 2D Platform Action game in which the valley is captured by an Evil Satanis ruler.",
-    "price": "$1"
+    "price": "$1",
+    "steamAppId": 1257270
   },
   {
     "id": 499975,
@@ -15718,7 +16043,8 @@
       "osx"
     ],
     "short_text": "A space puzzle game that challenges you to master the physics of the universe.",
-    "price": "$9.99"
+    "price": "$9.99",
+    "steamAppId": 330660
   },
   {
     "id": 434802,
@@ -15767,7 +16093,8 @@
       "osx"
     ],
     "short_text": "Follow the conversations of Lucille, a writer, during a year of her life.",
-    "price": "$15.99"
+    "price": "$15.99",
+    "steamAppId": 654390
   },
   {
     "id": 555876,
@@ -15852,7 +16179,8 @@
       "osx"
     ],
     "short_text": "The truth is near. Look inside.",
-    "price": "$8.99"
+    "price": "$8.99",
+    "steamAppId": 1025450
   },
   {
     "id": 451962,
@@ -15886,7 +16214,8 @@
       "osx"
     ],
     "short_text": "Explore what awaits in front of you and learn all you can about what you left behind.",
-    "price": "$5.99"
+    "price": "$5.99",
+    "steamAppId": 1025320
   },
   {
     "id": 530065,
@@ -16032,7 +16361,8 @@
     "url": "https://whynotgames.itch.io/the-quiet-sleep",
     "short_text": "A city builder/tower defense game set in a person's mind.",
     "ratings_count": 3,
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 724510
   },
   {
     "id": 197181,
@@ -16225,7 +16555,8 @@
       "osx"
     ],
     "short_text": "You play as Hiro / He works at the factory / Work hard, Hiro-san!",
-    "price": "$3.99"
+    "price": "$3.99",
+    "steamAppId": 770820
   },
   {
     "id": 509221,
@@ -16275,7 +16606,8 @@
       "linux"
     ],
     "short_text": "A fast and frantic one hit kill FPS! First person Hotline Miami?",
-    "price": "$9.99"
+    "price": "$9.99",
+    "steamAppId": 749410
   },
   {
     "user": {
@@ -16345,7 +16677,8 @@
     "url": "https://dkilmer.itch.io/reproduction-man",
     "short_text": "A 2D puzzler where you help some very simple-minded sperm get to the egg",
     "ratings_count": 3,
-    "price": "$1.50"
+    "price": "$1.50",
+    "steamAppId": 511920
   },
   {
     "user": {
@@ -16483,7 +16816,8 @@
     "url": "https://leefy.itch.io/figment",
     "short_text": "✨ Inspired by Neopets, we offer a fantasy pet + avatar dress-up browser game with vibrant lore & customized artwork.",
     "ratings_count": 3,
-    "price": "$5"
+    "price": "$5",
+    "steamAppId": 493540
   },
   {
     "id": 469058,
@@ -16538,7 +16872,8 @@
       "osx"
     ],
     "short_text": "A game about tacos and love. And cannibalism.",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 727420
   },
   {
     "user": {
@@ -16552,7 +16887,8 @@
     "url": "https://scottige.itch.io/captain-macaw",
     "cover": "https://img.itch.zone/aW1nLzE3ODYxNjAuanBn/300x240%23c/GFlsIy.jpg",
     "short_text": "Pixel platform adventure....with Pirates!",
-    "price": "$3.99"
+    "price": "$3.99",
+    "steamAppId": 946000
   },
   {
     "id": 467346,
@@ -16570,7 +16906,8 @@
       "windows"
     ],
     "short_text": "A shoot 'em up stylized like old browser games",
-    "price": "$1"
+    "price": "$1",
+    "steamAppId": 1197380
   },
   {
     "id": 556511,
@@ -16585,7 +16922,8 @@
     "url": "https://uap.itch.io/sorbetta-gravely-in-debt",
     "short_text": "A comedy RPG about a necromancer paying off her gambling debts.",
     "ratings_count": 3,
-    "price": "$3.99"
+    "price": "$3.99",
+    "steamAppId": 1231740
   },
   {
     "id": 413205,
@@ -16622,7 +16960,8 @@
       "windows"
     ],
     "short_text": "Pong with lasers and power ups and explosions.",
-    "price": "$2.99"
+    "price": "$2.99",
+    "steamAppId": 1079050
   },
   {
     "user": {
@@ -16766,7 +17105,8 @@
       "windows"
     ],
     "short_text": "A  2D old-school platformer with colorful graphics and heartwarming soundtrack.",
-    "price": "$1.99"
+    "price": "$1.99",
+    "steamAppId": 673010
   },
   {
     "id": 246213,
@@ -16969,7 +17309,8 @@
     "url": "https://spookycat.itch.io/snake-blocks",
     "short_text": "A 3D puzzle game about snakes!",
     "ratings_count": 3,
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 339320
   },
   {
     "id": 12729,
@@ -16989,7 +17330,8 @@
       "linux"
     ],
     "short_text": "Humorously macabre 2D platformer",
-    "price": "$5"
+    "price": "$5",
+    "steamAppId": 340390
   },
   {
     "id": 19806,
@@ -17171,7 +17513,8 @@
       "linux"
     ],
     "short_text": "Squad-based roguelike - marines on a steampunk spaceship.",
-    "price": "$19.99"
+    "price": "$19.99",
+    "steamAppId": 253630
   },
   {
     "id": 296902,
@@ -17201,7 +17544,8 @@
     "url": "https://cosmiccrystal.itch.io/hellstar-squadron",
     "short_text": "Embark on an adventure through space with the ferocious HELLSTAR SQUADRON.",
     "ratings_count": 2,
-    "price": "$1.99"
+    "price": "$1.99",
+    "steamAppId": 843740
   },
   {
     "id": 378420,
@@ -17220,7 +17564,8 @@
       "linux"
     ],
     "short_text": "The pathways are narrow and full of traps and the floor will start exploding behind you if you take too long!",
-    "price": "$8.99"
+    "price": "$8.99",
+    "steamAppId": 1037100
   },
   {
     "id": 120532,
@@ -17269,7 +17614,8 @@
       "osx"
     ],
     "short_text": "A minimalist party game about rules, friendship, and also shooting",
-    "price": "$14.99"
+    "price": "$14.99",
+    "steamAppId": 467470
   },
   {
     "id": 72453,
@@ -17287,7 +17633,8 @@
       "windows"
     ],
     "short_text": "Singleplayer RTS game with procedural campaign",
-    "price": "$11.99"
+    "price": "$11.99",
+    "steamAppId": 586920
   },
   {
     "id": 20198,
@@ -17326,7 +17673,8 @@
       "osx"
     ],
     "short_text": "A game of mystery and discovery that poses the question; what is truth, and does it even matter?",
-    "price": "$12.99"
+    "price": "$12.99",
+    "steamAppId": 900290
   },
   {
     "id": 277310,
@@ -17344,7 +17692,8 @@
       "windows"
     ],
     "short_text": "Small 1-player puzzle action game: Dodge, tape, and stomp boxes!",
-    "price": "$2.99"
+    "price": "$2.99",
+    "steamAppId": 881470
   },
   {
     "id": 302201,
@@ -17381,7 +17730,8 @@
       "osx"
     ],
     "short_text": "Crystal Control II is the expanded sequel to our original competitive bullet hell shoot 'em up for two players!",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 499580
   },
   {
     "id": 208802,
@@ -17400,7 +17750,8 @@
       "osx"
     ],
     "short_text": "Retro-inspired beat 'em up starring chipmunk warriors!",
-    "price": "$8.99"
+    "price": "$8.99",
+    "steamAppId": 1019730
   },
   {
     "id": 553490,
@@ -17418,7 +17769,8 @@
       "windows"
     ],
     "short_text": "Date your own drawings! Forget about finding true love; In Doodle Date, you create it!",
-    "price": "$1.99"
+    "price": "$1.99",
+    "steamAppId": 830980
   },
   {
     "id": 97039,
@@ -17438,7 +17790,8 @@
       "linux"
     ],
     "short_text": "Dehumanize kids and make money.",
-    "price": "$9.99"
+    "price": "$9.99",
+    "steamAppId": 350090
   },
   {
     "id": 380095,
@@ -17591,7 +17944,8 @@
       "linux"
     ],
     "short_text": "Sci-fi hypertext adventure in the style of a motion-comic.",
-    "price": "$4"
+    "price": "$4",
+    "steamAppId": 313360
   },
   {
     "id": 433000,
@@ -17628,7 +17982,8 @@
     "url": "https://nunodonato.itch.io/a-game-of-changes",
     "cover": "https://img.itch.zone/aW1hZ2UvNTg2MjMvMjc1OTYxLnBuZw==/300x240%23c/su5JD5.png",
     "ratings_count": 2,
-    "price": "4.99€"
+    "price": "4.99€",
+    "steamAppId": 467090
   },
   {
     "id": 404608,
@@ -17648,7 +18003,8 @@
       "linux"
     ],
     "short_text": "Fight drones and search for clues in an unending high-rise, with ultra realistic gun mechanics",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 234190
   },
   {
     "id": 659749,
@@ -17784,7 +18140,8 @@
       "linux"
     ],
     "short_text": "Discover the mysteries of Town and help Duckson in his quest to become a real Duck Knight!",
-    "price": "$6.99"
+    "price": "$6.99",
+    "steamAppId": 1111310
   },
   {
     "user": {
@@ -17815,7 +18172,8 @@
       "windows"
     ],
     "short_text": "A true roguelite dungeon crawler set in a world where the Gods have given you a great gift - and a great curse.",
-    "price": "$14.99"
+    "price": "$14.99",
+    "steamAppId": 1048880
   },
   {
     "id": 97292,
@@ -17836,7 +18194,8 @@
       "android"
     ],
     "short_text": "Guide brainless lovestruck octopus couples safely to their romantic rendezvous in increasingly deadly date spots.",
-    "price": "$6.99"
+    "price": "$6.99",
+    "steamAppId": 571330
   },
   {
     "id": 517016,
@@ -17870,7 +18229,8 @@
       "linux"
     ],
     "short_text": "The Tower: The Order of XII is a humble puzzle game, a fantasy interconected franchise of games, stories and characters.",
-    "price": "$2.99"
+    "price": "$2.99",
+    "steamAppId": 1068770
   },
   {
     "id": 237719,
@@ -17907,7 +18267,8 @@
     "url": "https://cbesoftware.itch.io/julia-among-the-stars",
     "short_text": "an innovative narrative driven sci-fi adventure game.",
     "ratings_count": 2,
-    "price": "$5"
+    "price": "$5",
+    "steamAppId": 257690
   },
   {
     "user": {
@@ -17940,7 +18301,8 @@
       "osx"
     ],
     "short_text": "Explore a remote alien planet with a unique visual style.",
-    "price": "$9.99"
+    "price": "$9.99",
+    "steamAppId": 510240
   },
   {
     "user": {
@@ -18009,7 +18371,8 @@
       "linux"
     ],
     "short_text": "A turn-based traditional roguelike where you play as a ghost who can possess other creatures in the dungeon.",
-    "price": "$10"
+    "price": "$10",
+    "steamAppId": 629340
   },
   {
     "user": {
@@ -18023,7 +18386,8 @@
     "url": "https://bluestockings.itch.io/savior",
     "cover": "https://img.itch.zone/aW1nLzI3OTQwNzIuanBn/300x240%23cb/%2Bv3HsO.jpg",
     "short_text": "a solitary journey for one savior",
-    "price": "$10"
+    "price": "$10",
+    "steamAppId": 1093810
   },
   {
     "id": 457881,
@@ -18076,7 +18440,8 @@
       "linux"
     ],
     "short_text": "A Real-Time Strategy space adventure with Rougelike elements",
-    "price": "$14.99"
+    "price": "$14.99",
+    "steamAppId": 1000810
   },
   {
     "id": 329163,
@@ -18124,7 +18489,8 @@
       "windows"
     ],
     "short_text": "Ambient Arcade Runner",
-    "price": "$4"
+    "price": "$4",
+    "steamAppId": 664110
   },
   {
     "id": 528483,
@@ -18174,7 +18540,8 @@
       "linux"
     ],
     "short_text": "NO THING - Surreal Arcade Trip",
-    "price": "$3.99"
+    "price": "$3.99",
+    "steamAppId": 444800
   },
   {
     "id": 434168,
@@ -18237,7 +18604,8 @@
       "windows"
     ],
     "short_text": "A city building & decision simulation game",
-    "price": "$7.99"
+    "price": "$7.99",
+    "steamAppId": 987250
   },
   {
     "user": {
@@ -18271,7 +18639,8 @@
       "linux"
     ],
     "short_text": "Head-to-head competitive puzzle action!",
-    "price": "$6.99"
+    "price": "$6.99",
+    "steamAppId": 652090
   },
   {
     "id": 185491,
@@ -18286,7 +18655,8 @@
     "url": "https://jackdarx.itch.io/jet-buster",
     "short_text": "90s Anthro Bullet Hell Action",
     "ratings_count": 2,
-    "price": "$9.99"
+    "price": "$9.99",
+    "steamAppId": 618070
   },
   {
     "id": 610781,
@@ -18349,7 +18719,8 @@
       "linux"
     ],
     "short_text": "Collect your memores (Horror Puzzle)",
-    "price": "$1"
+    "price": "$1",
+    "steamAppId": 1133210
   },
   {
     "user": {
@@ -18455,7 +18826,8 @@
       "windows"
     ],
     "short_text": "The Generative Art Game",
-    "price": "$1"
+    "price": "$1",
+    "steamAppId": 546780
   },
   {
     "user": {
@@ -18621,7 +18993,8 @@
     "url": "https://hungrybear.itch.io/dogurai",
     "short_text": "Dogurai is a 2D platformer packed with fast-paced action, dogs, robots and pure retro goodness.",
     "ratings_count": 2,
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 565180
   },
   {
     "id": 298543,
@@ -18657,7 +19030,8 @@
       "osx"
     ],
     "short_text": "A puzzle game about a wizard falling down a hole.",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 1126020
   },
   {
     "user": {
@@ -18689,7 +19063,8 @@
       "windows"
     ],
     "short_text": "An uncompromising platform fighter",
-    "price": "$7.99"
+    "price": "$7.99",
+    "steamAppId": 944500
   },
   {
     "id": 478423,
@@ -18718,7 +19093,8 @@
     "url": "https://bluestockings.itch.io/remember-me",
     "cover": "https://img.itch.zone/aW1nLzI5MTA0MjEuanBn/300x240%23c/UUE1j5.jpg",
     "short_text": "A game of identity and memory for two",
-    "price": "$10"
+    "price": "$10",
+    "steamAppId": 228300
   },
   {
     "id": 654697,
@@ -18801,7 +19177,8 @@
       "linux"
     ],
     "short_text": "After dying unexpectedly, Akagi Ai becomes unstuck in time in a town full of secrets.",
-    "price": "$1"
+    "price": "$1",
+    "steamAppId": 1013580
   },
   {
     "id": 617449,
@@ -18957,7 +19334,8 @@
       "windows"
     ],
     "short_text": "Play as you playing as you to solve the puzzle.",
-    "price": "$1.99"
+    "price": "$1.99",
+    "steamAppId": 1080780
   },
   {
     "id": 655002,
@@ -19032,7 +19410,8 @@
     "url": "https://starwest.itch.io/wanderlust",
     "short_text": "A Storytelling Game about Saying Goodbye",
     "ratings_count": 2,
-    "price": "$5"
+    "price": "$5",
+    "steamAppId": 729670
   },
   {
     "id": 448542,
@@ -19110,7 +19489,8 @@
       "osx"
     ],
     "short_text": "Local-Multiplayer Robot Soccer Fiasco",
-    "price": "$7.99"
+    "price": "$7.99",
+    "steamAppId": 839010
   },
   {
     "id": 415849,
@@ -19189,7 +19569,8 @@
       "windows"
     ],
     "short_text": "Stop Garrison's forces from the inside!",
-    "price": "$1"
+    "price": "$1",
+    "steamAppId": 912360
   },
   {
     "id": 142210,
@@ -19543,7 +19924,8 @@
     "url": "https://sicklydove.itch.io/disobedientsheep",
     "title": "Disobedient Sheep",
     "short_text": "A lighthearted sheep herd'em'up.",
-    "flag": "free"
+    "flag": "free",
+    "steamAppId": 1035530
   },
   {
     "title": "Mini Ghost",
@@ -19559,7 +19941,8 @@
     "url": "https://franfistro.itch.io/mini-ghost",
     "cover": "https://img.itch.zone/aW1hZ2UvMTE4NzE0LzU0ODAxOS5qcGc=/300x240%23c/NC0IkK.jpg",
     "ratings_count": 2,
-    "price": "$2"
+    "price": "$2",
+    "steamAppId": 586880
   },
   {
     "id": 632260,
@@ -19577,7 +19960,8 @@
     "short_text": "Can you endure isolation?",
     "platforms": [
       "windows"
-    ]
+    ],
+    "steamAppId": 1299260
   },
   {
     "id": 24344,
@@ -19596,7 +19980,8 @@
     "platforms": [
       "windows",
       "android"
-    ]
+    ],
+    "steamAppId": 671270
   },
   {
     "id": 656368,
@@ -19649,7 +20034,8 @@
     "url": "https://lukeoc.itch.io/run-jump-fail",
     "short_text": "Totally accurate running, jumping, and failing simulator",
     "ratings_count": 2,
-    "price": "$3"
+    "price": "$3",
+    "steamAppId": 781640
   },
   {
     "id": 168164,
@@ -19683,7 +20069,8 @@
     "platforms": [
       "windows",
       "linux"
-    ]
+    ],
+    "steamAppId": 380140
   },
   {
     "id": 611475,
@@ -19835,7 +20222,8 @@
       "windows"
     ],
     "short_text": "like jousting, but on unicycles",
-    "price": "$3.99"
+    "price": "$3.99",
+    "steamAppId": 377550
   },
   {
     "id": 590286,
@@ -19903,7 +20291,8 @@
       "osx"
     ],
     "short_text": "A challenging twin stick shooter jam-packed with sinister fruit monsters and plenty of firepower to take them on!",
-    "price": "$5"
+    "price": "$5",
+    "steamAppId": 1052080
   },
   {
     "id": 345201,
@@ -19921,7 +20310,8 @@
       "windows"
     ],
     "short_text": "The fury of Bomberman with the strategic depth of an RTS",
-    "price": "$6"
+    "price": "$6",
+    "steamAppId": 993770
   },
   {
     "id": 33617,
@@ -19960,7 +20350,8 @@
       "osx"
     ],
     "short_text": "Explore steam-powered ancient Greece as Diona, Artemis' chosen bear warrior, on an epic quest of technology and magic.",
-    "price": "$20"
+    "price": "$20",
+    "steamAppId": 540690
   },
   {
     "id": 54754,
@@ -19979,7 +20370,8 @@
       "linux"
     ],
     "short_text": "An unusual puzzle game about crafting with a lovely atmosphere and some adorable creatures stabbing rabbits. For real.",
-    "price": "$3"
+    "price": "$3",
+    "steamAppId": 434820
   },
   {
     "id": 342152,
@@ -20032,7 +20424,8 @@
       "osx"
     ],
     "short_text": "An ambient tactical game in which you play a silicon entity in a dark and abstract universe made of hexagonal tiles.",
-    "price": "$7"
+    "price": "$7",
+    "steamAppId": 1085540
   },
   {
     "id": 347372,
@@ -20051,7 +20444,8 @@
       "linux"
     ],
     "short_text": "A quirky platformer with a capturing story (literally!)",
-    "price": "$6.99"
+    "price": "$6.99",
+    "steamAppId": 1208220
   },
   {
     "id": 117361,
@@ -20069,7 +20463,8 @@
       "windows"
     ],
     "short_text": "A story driven vertical shmup.",
-    "price": "$8.99"
+    "price": "$8.99",
+    "steamAppId": 496540
   },
   {
     "id": 333016,
@@ -20089,7 +20484,8 @@
       "linux"
     ],
     "short_text": "Unique puzzle game inspired by sudoku and kakuro (cross sums).",
-    "price": "$2.99"
+    "price": "$2.99",
+    "steamAppId": 865220
   },
   {
     "id": 27899,
@@ -20108,7 +20504,8 @@
       "osx"
     ],
     "short_text": "A short story exploration puzzle platformer inspired by the old point and click games.",
-    "price": "$8.99"
+    "price": "$8.99",
+    "steamAppId": 332630
   },
   {
     "id": 7933,
@@ -20128,7 +20525,8 @@
       "linux"
     ],
     "short_text": "Rumors resurface. Legends are resurrected.",
-    "price": "$2.99"
+    "price": "$2.99",
+    "steamAppId": 435000
   },
   {
     "id": 170020,
@@ -20148,7 +20546,8 @@
       "linux"
     ],
     "short_text": "A mathematical puzzle game about creating perfectly balanced paths by building chains and combos.",
-    "price": "$2.99"
+    "price": "$2.99",
+    "steamAppId": 701910
   },
   {
     "id": 87584,
@@ -20184,7 +20583,8 @@
       "windows"
     ],
     "short_text": "​A cool and cute game to fulfill your retro platformer needs. With a little bit of exploration too :)",
-    "price": "$2"
+    "price": "$2",
+    "steamAppId": 868430
   },
   {
     "id": 630046,
@@ -20220,7 +20620,8 @@
       "windows"
     ],
     "short_text": "A slice-of-life interactive story about choosing your path and living in a community.",
-    "price": "$7.99"
+    "price": "$7.99",
+    "steamAppId": 875660
   },
   {
     "id": 400299,
@@ -20257,7 +20658,8 @@
       "windows"
     ],
     "short_text": "A paradise of self-improvement.",
-    "price": "$10"
+    "price": "$10",
+    "steamAppId": 969530
   },
   {
     "user": {
@@ -20324,7 +20726,8 @@
       "linux"
     ],
     "short_text": "Atmospheric Puzzle game about atoms",
-    "price": "$1.99"
+    "price": "$1.99",
+    "steamAppId": 568500
   },
   {
     "id": 6595,
@@ -20344,7 +20747,8 @@
       "linux"
     ],
     "short_text": "Stopmotion music game. recreate music with paper, wood, plaster, resin & concrete. explore & chill or exploit & survive",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 343410
   },
   {
     "id": 543110,
@@ -20416,7 +20820,8 @@
       "windows"
     ],
     "short_text": "Remaster of Soma Spirits! A choice-driven JRPG!",
-    "price": "$2.99"
+    "price": "$2.99",
+    "steamAppId": 587310
   },
   {
     "id": 68291,
@@ -20436,7 +20841,8 @@
       "linux"
     ],
     "short_text": "The fighting game where the pain...is to your pride!",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 708780
   },
   {
     "id": 452920,
@@ -20454,7 +20860,8 @@
       "windows"
     ],
     "short_text": "3D remaster of the original Supaplex with a build-in level editor.",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 1124950
   },
   {
     "id": 212344,
@@ -20472,7 +20879,8 @@
       "windows"
     ],
     "short_text": "You've crash-landed on an alien planet, and it's started to rain... seeds.",
-    "price": "$3.99"
+    "price": "$3.99",
+    "steamAppId": 428490
   },
   {
     "id": 163674,
@@ -20490,7 +20898,8 @@
       "windows"
     ],
     "short_text": "Scrapper is a free roaming, objective based, rogue-lite space flight game",
-    "price": "$9.99"
+    "price": "$9.99",
+    "steamAppId": 620330
   },
   {
     "id": 208156,
@@ -20509,7 +20918,8 @@
       "osx"
     ],
     "short_text": "A 2-8 player local multiplayer party game where friends share controllers to become the best chef in the kitchen",
-    "price": "$7.99"
+    "price": "$7.99",
+    "steamAppId": 1081410
   },
   {
     "user": {
@@ -20556,7 +20966,8 @@
       "windows"
     ],
     "short_text": "A real-time, crowdsourced, procedurally generated game where your fate is in everyone else's hands",
-    "price": "$9.99"
+    "price": "$9.99",
+    "steamAppId": 359960
   },
   {
     "id": 27787,
@@ -20627,7 +21038,8 @@
       "linux"
     ],
     "short_text": "Bomsy is a fast, aim-based, multiplayer arena brawler with destructible maps.",
-    "price": "$3.99"
+    "price": "$3.99",
+    "steamAppId": 693310
   },
   {
     "id": 220450,
@@ -20646,7 +21058,8 @@
       "osx"
     ],
     "short_text": "The Kingdom of Bones needs you!",
-    "price": "$9.99"
+    "price": "$9.99",
+    "steamAppId": 805070
   },
   {
     "id": 253630,
@@ -20684,7 +21097,8 @@
       "osx"
     ],
     "short_text": "Blast through the demon hordes!",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 334840
   },
   {
     "id": 513385,
@@ -20768,7 +21182,8 @@
       "osx"
     ],
     "short_text": "Break space-time with friends!",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 670080
   },
   {
     "id": 505631,
@@ -20854,7 +21269,8 @@
     "url": "https://lightloopgames.itch.io/above-the-fallen",
     "short_text": "Above: The Fallen is a 2D side-scrolling, puzzle - platformer game.",
     "ratings_count": 1,
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 715490
   },
   {
     "id": 440512,
@@ -20888,7 +21304,8 @@
       "linux"
     ],
     "short_text": "Throw the map at your friends! ( + FREE DEMO )",
-    "price": "$12"
+    "price": "$12",
+    "steamAppId": 517960
   },
   {
     "id": 484191,
@@ -20940,7 +21357,8 @@
       "windows"
     ],
     "short_text": "A tangram is a Chinese logic puzzle where you must fit seven pieces into a target shape without any overlapping.",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 677720
   },
   {
     "id": 306214,
@@ -21068,7 +21486,8 @@
       "android"
     ],
     "short_text": "12 players, one keyboard / smartphone / gamepad / touchscreen / makey makey...",
-    "price": "$1.99"
+    "price": "$1.99",
+    "steamAppId": 529950
   },
   {
     "user": {
@@ -21244,7 +21663,8 @@
     "flag": "web",
     "title": "soundStrider",
     "short_text": "Psychedelic auditory exploration experience",
-    "price": "$5"
+    "price": "$5",
+    "steamAppId": 1283450
   },
   {
     "id": 529963,
@@ -21264,7 +21684,8 @@
       "linux"
     ],
     "short_text": "Explore and survive as the young typist Kana in an old-school dungeon full of absurd encounters and more.",
-    "price": "$14.99"
+    "price": "$14.99",
+    "steamAppId": 1097170
   },
   {
     "id": 600031,
@@ -21549,7 +21970,8 @@
       "windows"
     ],
     "short_text": "Cheese it up with Chizuru and SHOOT TO THE BEAT OF THE SONG in this top down bullet hell shooter!",
-    "price": "$1"
+    "price": "$1",
+    "steamAppId": 787070
   },
   {
     "id": 561960,
@@ -21615,7 +22037,8 @@
       "windows"
     ],
     "short_text": "2D story-rich horror game with terrifying monsters and metroidvania elements.",
-    "price": "$2.99"
+    "price": "$2.99",
+    "steamAppId": 1310650
   },
   {
     "id": 223227,
@@ -21713,7 +22136,8 @@
       "linux"
     ],
     "short_text": "Minimalistic fast pace multiplayer shooter.",
-    "price": "$2.99"
+    "price": "$2.99",
+    "steamAppId": 375330
   },
   {
     "id": 605782,
@@ -21790,7 +22214,8 @@
       "linux"
     ],
     "short_text": "Space rocks shoot-em-up roguelite!",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 1126440
   },
   {
     "user": {
@@ -21818,7 +22243,8 @@
     "url": "https://huey.itch.io/silk",
     "cover": "https://img.itch.zone/aW1nLzIzOTUxNzEucG5n/300x240%23c/LDLdc6.png",
     "short_text": "Enter the biggest handcrafted open world of all time in the exploration RPG set on the Ancient Silk Road",
-    "price": "$10.99"
+    "price": "$10.99",
+    "steamAppId": 1132090
   },
   {
     "id": 477810,
@@ -21867,7 +22293,8 @@
       "android"
     ],
     "short_text": "Darkest Wave is a retro shoot-em up done in bright colors and a unique style.",
-    "price": "$2.99"
+    "price": "$2.99",
+    "steamAppId": 653920
   },
   {
     "id": 557373,
@@ -21901,7 +22328,8 @@
       "linux"
     ],
     "short_text": "Follow a mysterious Halloween invitation.",
-    "price": "$2.99"
+    "price": "$2.99",
+    "steamAppId": 680680
   },
   {
     "id": 84707,
@@ -21921,7 +22349,8 @@
       "linux"
     ],
     "short_text": "Keyboard vs. mouse game for two players",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 953550
   },
   {
     "user": {
@@ -21950,7 +22379,8 @@
     "url": "https://balou85.itch.io/the-artifact",
     "short_text": "A solo cosmic horror RPG written for the Wretched & Alone game jam",
     "ratings_count": 1,
-    "price": "$3"
+    "price": "$3",
+    "steamAppId": 532920
   },
   {
     "id": 498283,
@@ -22069,7 +22499,8 @@
       "windows"
     ],
     "short_text": "Help Fantom eat enemies and grow big and strong!",
-    "price": "$1.99"
+    "price": "$1.99",
+    "steamAppId": 962280
   },
   {
     "id": 374242,
@@ -22146,7 +22577,8 @@
       "windows"
     ],
     "short_text": "Minimalist puzzle game",
-    "price": "$1"
+    "price": "$1",
+    "steamAppId": 838490
   },
   {
     "id": 534807,
@@ -22224,7 +22656,8 @@
     "url": "https://oddbyte.itch.io/rogues-like-us",
     "short_text": "Stand against a resurging threat by yourself or with a friend in local co-op in this unique hack n' slash roguelite!",
     "ratings_count": 1,
-    "price": "$9.99"
+    "price": "$9.99",
+    "steamAppId": 492410
   },
   {
     "id": 519130,
@@ -22286,7 +22719,8 @@
     "url": "https://slamazotz.itch.io/immanence",
     "cover": "https://img.itch.zone/aW1nLzI4MzIyMjAucG5n/300x240%23cb/eHnzYl.png",
     "short_text": "A micro-rpg about life on a ship carrying tens of thousands of people to a new home.",
-    "price": "$1"
+    "price": "$1",
+    "steamAppId": 1177430
   },
   {
     "id": 468335,
@@ -22389,7 +22823,8 @@
       "linux"
     ],
     "short_text": "My Haunted Doll is a 2D Survival Horror game based on the story of the cursed doll of the 1800s.",
-    "price": "$1"
+    "price": "$1",
+    "steamAppId": 1181470
   },
   {
     "id": 17078,
@@ -22456,7 +22891,8 @@
       "linux"
     ],
     "short_text": "A game where you sell energy",
-    "price": "$2"
+    "price": "$2",
+    "steamAppId": 718240
   },
   {
     "id": 439600,
@@ -22475,7 +22911,8 @@
       "osx"
     ],
     "short_text": "An explosive arcade game about a farting cow!",
-    "price": "$1.50"
+    "price": "$1.50",
+    "steamAppId": 982390
   },
   {
     "id": 459642,
@@ -22827,7 +23264,8 @@
       "windows"
     ],
     "short_text": "An engineering puzzle game where you build pixelart images one block at a time",
-    "price": "$4"
+    "price": "$4",
+    "steamAppId": 1204540
   },
   {
     "id": 533489,
@@ -22860,7 +23298,8 @@
       "windows"
     ],
     "short_text": "A frantic, fantasy themed twin-stick shooter",
-    "price": "$7.99"
+    "price": "$7.99",
+    "steamAppId": 1007180
   },
   {
     "id": 556699,
@@ -22998,7 +23437,8 @@
       "linux"
     ],
     "short_text": "Christmas Cats Revenge is a Christmas themed 2D Platform Action game based on the story of the war between two kingdoms.",
-    "price": "$1"
+    "price": "$1",
+    "steamAppId": 1201500
   },
   {
     "id": 232320,
@@ -23030,7 +23470,8 @@
     "url": "https://thewgreen.itch.io/gunducky-industries",
     "title": "Gunducky Industries",
     "ratings_count": 1,
-    "flag": "web"
+    "flag": "web",
+    "steamAppId": 686240
   },
   {
     "id": 224722,
@@ -23050,7 +23491,8 @@
       "linux"
     ],
     "short_text": "Be the first to die! Has a level editor",
-    "price": "$1"
+    "price": "$1",
+    "steamAppId": 830810
   },
   {
     "id": 193595,
@@ -23070,7 +23512,8 @@
       "linux"
     ],
     "short_text": "Local multiplayer rpg party game hybrid",
-    "price": "$3.99"
+    "price": "$3.99",
+    "steamAppId": 847230
   },
   {
     "id": 168099,
@@ -23089,7 +23532,8 @@
     "url": "https://freetimedev.itch.io/bad-government",
     "short_text": "Buy this product and instantly get access to the decision-making handheld device of the president.",
     "ratings_count": 1,
-    "price": "2.99€"
+    "price": "2.99€",
+    "steamAppId": 666090
   },
   {
     "id": 130758,
@@ -23322,7 +23766,8 @@
       "linux"
     ],
     "short_text": "An arcade game like early classics, with modern updates",
-    "price": "$2.99"
+    "price": "$2.99",
+    "steamAppId": 856190
   },
   {
     "id": 195327,
@@ -23373,7 +23818,8 @@
       "windows"
     ],
     "short_text": "A pixel platformer/adventure where you try to find the shrine to Anubis",
-    "price": "$1"
+    "price": "$1",
+    "steamAppId": 1160670
   },
   {
     "id": 297988,
@@ -23530,7 +23976,8 @@
       "osx"
     ],
     "short_text": "Tactile puzzle boxes",
-    "price": "$9.99"
+    "price": "$9.99",
+    "steamAppId": 290510
   },
   {
     "id": 118482,
@@ -23549,7 +23996,8 @@
       "osx"
     ],
     "short_text": "Throw on your invisibility cloak and put your reflexes to the test in this brutal precision platformer",
-    "price": "$9.99"
+    "price": "$9.99",
+    "steamAppId": 331190
   },
   {
     "id": 53305,
@@ -23569,7 +24017,8 @@
       "linux"
     ],
     "short_text": "Steam Marines 2 - a steampunk tactics game",
-    "price": "$25"
+    "price": "$25",
+    "steamAppId": 383940
   },
   {
     "id": 181232,
@@ -23588,7 +24037,8 @@
       "osx"
     ],
     "short_text": "Chill sandbox for growing weird plants from alien genetics.",
-    "price": "$10"
+    "price": "$10",
+    "steamAppId": 899340
   },
   {
     "id": 216831,
@@ -23608,7 +24058,8 @@
       "linux"
     ],
     "short_text": "A fast-paced space shooter with screen-shaking explosions and a mystery at its heart.",
-    "price": "$6.99"
+    "price": "$6.99",
+    "steamAppId": 749560
   },
   {
     "id": 328998,
@@ -23642,7 +24093,8 @@
       "linux"
     ],
     "short_text": "You are the subject of a strange experiment out in deep space.",
-    "price": "$10.99"
+    "price": "$10.99",
+    "steamAppId": 855190
   },
   {
     "id": 74468,
@@ -23661,7 +24113,8 @@
       "osx"
     ],
     "short_text": "An arcade racing game of strategy and reflexes",
-    "price": "$15"
+    "price": "$15",
+    "steamAppId": 539560
   },
   {
     "id": 394625,
@@ -23680,7 +24133,8 @@
       "linux"
     ],
     "short_text": "Pixel-tastic, retro-infused, flick-screen, twin-stick-shooter.",
-    "price": "$6.99"
+    "price": "$6.99",
+    "steamAppId": 683310
   },
   {
     "user": {
@@ -23714,7 +24168,8 @@
       "linux"
     ],
     "short_text": "This intense space shoot ’em up challenges you to fight across two battlefields on one splitscreen.",
-    "price": "$12.99"
+    "price": "$12.99",
+    "steamAppId": 394430
   },
   {
     "id": 464117,
@@ -23732,7 +24187,8 @@
       "windows"
     ],
     "short_text": "Slay Monsters and Conquer Romance in Roll+Heart from Owl Sanctuary Studios",
-    "price": "$10"
+    "price": "$10",
+    "steamAppId": 1086670
   },
   {
     "id": 87112,
@@ -23752,7 +24208,8 @@
       "linux"
     ],
     "short_text": "A colorful game of logic",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 547050
   },
   {
     "id": 603518,
@@ -23770,7 +24227,8 @@
       "windows"
     ],
     "short_text": "A platform shooter that brings 90's gaming smashing into your face from your PC.",
-    "price": "$5.99"
+    "price": "$5.99",
+    "steamAppId": 1124990
   },
   {
     "id": 53022,
@@ -23809,7 +24267,8 @@
       "linux"
     ],
     "short_text": "A Shakespearean fairy tale visual novel",
-    "price": "$7.99"
+    "price": "$7.99",
+    "steamAppId": 1063110
   },
   {
     "id": 155962,
@@ -23829,7 +24288,8 @@
       "linux"
     ],
     "short_text": "An album of games [WORK IN PROGRESS]",
-    "price": "$3"
+    "price": "$3",
+    "steamAppId": 342730
   },
   {
     "id": 596596,
@@ -23932,7 +24392,8 @@
       "windows"
     ],
     "short_text": "An inevitable end. An unstoppable beginning.",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 1204320
   },
   {
     "title": "Pixel Button Prompts! (Keyboard/Gamepad)",
@@ -23982,7 +24443,8 @@
       "windows"
     ],
     "short_text": "A short form sci fi family drama visual novel",
-    "price": "$2"
+    "price": "$2",
+    "steamAppId": 717830
   },
   {
     "id": 144125,
@@ -24002,7 +24464,8 @@
       "linux"
     ],
     "short_text": "Turn-based tactical fire fighting",
-    "price": "$19.99"
+    "price": "$19.99",
+    "steamAppId": 654220
   },
   {
     "id": 35095,
@@ -24091,7 +24554,8 @@
       "linux"
     ],
     "short_text": "Hop into your spaceship and battle waves of opponents to find the legendary space pizza! Now 100% more Deluxe than ever!",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 1148500
   },
   {
     "id": 347061,
@@ -24124,7 +24588,8 @@
     "url": "https://criticalgames.itch.io/tales-across-time",
     "short_text": "A unique RPG experience which uses the classic short-story format to tell the tale of three different characters...",
     "ratings_count": 0,
-    "price": "$2.99"
+    "price": "$2.99",
+    "steamAppId": 461710
   },
   {
     "id": 333678,
@@ -24142,7 +24607,8 @@
       "windows"
     ],
     "short_text": "Breakfast themed arcade with quirky puzzle elements",
-    "price": "$1.99"
+    "price": "$1.99",
+    "steamAppId": 590950
   },
   {
     "id": 577369,
@@ -24192,7 +24658,8 @@
     "url": "https://chronic-vagrant.itch.io/space-mayhem",
     "cover": "https://img.itch.zone/aW1nLzI2ODUwMTUucG5n/300x240%23c/5dD8W%2F.png",
     "ratings_count": 0,
-    "price": "$1"
+    "price": "$1",
+    "steamAppId": 922470
   },
   {
     "id": 64533,
@@ -24212,7 +24679,8 @@
       "linux"
     ],
     "short_text": "Controller-smashingly tough puzzle platformer",
-    "price": "$9.99"
+    "price": "$9.99",
+    "steamAppId": 435800
   },
   {
     "id": 74578,
@@ -24230,7 +24698,8 @@
       "windows"
     ],
     "short_text": "Old-School 4-Player Arcade Game",
-    "price": "1.99€"
+    "price": "1.99€",
+    "steamAppId": 513980
   },
   {
     "id": 611932,
@@ -24311,7 +24780,8 @@
     "url": "https://inde.itch.io/shattered",
     "short_text": "A Grimdark RPG",
     "ratings_count": 0,
-    "price": "$10"
+    "price": "$10",
+    "steamAppId": 712620
   },
   {
     "id": 650528,
@@ -24363,7 +24833,8 @@
       "windows"
     ],
     "short_text": "Fast-paced arena action game with swords and guns",
-    "price": "$9.99"
+    "price": "$9.99",
+    "steamAppId": 530130
   },
   {
     "id": 578205,
@@ -24464,7 +24935,8 @@
       "windows"
     ],
     "short_text": "Experimental Basketball Adventure",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 329690
   },
   {
     "id": 142307,
@@ -24482,7 +24954,8 @@
       "windows"
     ],
     "short_text": "Grab the atomic core and fight to escape…if you can.",
-    "price": "$1"
+    "price": "$1",
+    "steamAppId": 791000
   },
   {
     "id": 3404,
@@ -24502,7 +24975,8 @@
       "linux"
     ],
     "short_text": "Guide Red through the woods to help her find grandma's house.",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 526890
   },
   {
     "id": 643595,
@@ -24532,7 +25006,8 @@
     "url": "https://sprawl.itch.io/somos",
     "short_text": "An Abstract Monochromatic Action Game",
     "ratings_count": 0,
-    "price": "$8"
+    "price": "$8",
+    "steamAppId": 706510
   },
   {
     "id": 168500,
@@ -24550,7 +25025,8 @@
       "windows"
     ],
     "short_text": "A unique RPG/Adventure with randomized items and a gripping storyline.",
-    "price": "$1.99"
+    "price": "$1.99",
+    "steamAppId": 654250
   },
   {
     "id": 69855,
@@ -24570,7 +25046,8 @@
       "linux"
     ],
     "short_text": "An interactive whodunnit with a different culprit on each playthrough!",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 503980
   },
   {
     "id": 482749,
@@ -24736,7 +25213,8 @@
       "windows"
     ],
     "short_text": "Cooperation is a strategy, not a requirement. Make temporary allies, break promises, and watch out for backstabbers",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 724920
   },
   {
     "id": 639744,
@@ -24878,7 +25356,8 @@
     "url": "https://symptomatic.itch.io/color-cannons",
     "cover": "https://img.itch.zone/aW1hZ2UvMzAyODQ3LzE0ODU0OTUucG5n/300x240%23c/qyC3ek.png",
     "ratings_count": 0,
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 798780
   },
   {
     "id": 611992,
@@ -24945,7 +25424,8 @@
       "windows"
     ],
     "short_text": "Ensnare enemies and dodge bullets in this colourful bullet-hell",
-    "price": "$9.99"
+    "price": "$9.99",
+    "steamAppId": 968210
   },
   {
     "id": 649884,
@@ -25040,7 +25520,8 @@
       "windows"
     ],
     "short_text": "These are the tense, action-packed stories of a special operative's past.",
-    "price": "$5.99"
+    "price": "$5.99",
+    "steamAppId": 501410
   },
   {
     "id": 124237,
@@ -25076,7 +25557,8 @@
       "windows"
     ],
     "short_text": "A cosmic journey through Tinder-Boone National Park.",
-    "price": "$5.99"
+    "price": "$5.99",
+    "steamAppId": 502530
   },
   {
     "id": 97263,
@@ -25188,7 +25670,8 @@
     "url": "https://alecrobbins.itch.io/heartbreakhigh",
     "cover": "https://img.itch.zone/aW1hZ2UvMjUzNDEwLzEyMTMxMTQucG5n/300x240%23c/hZfFxy.png",
     "ratings_count": 0,
-    "price": "$5"
+    "price": "$5",
+    "steamAppId": 836350
   },
   {
     "id": 506679,
@@ -25298,7 +25781,8 @@
       "linux"
     ],
     "short_text": "Planet Diver is about an adventurous daredevil tackling her newest obsession: Wing suit diving.",
-    "price": "$3.99"
+    "price": "$3.99",
+    "steamAppId": 417980
   },
   {
     "title": "Strike! RPG: Tactical Combat and Heedless Adventure",
@@ -25401,7 +25885,8 @@
     "url": "https://deathbymage.itch.io/haunted-memories",
     "short_text": "A game  of crumbling secrets, childhood memories, and hauntings",
     "ratings_count": 0,
-    "price": "$8"
+    "price": "$8",
+    "steamAppId": 241640
   },
   {
     "id": 601109,
@@ -25451,7 +25936,8 @@
       "windows"
     ],
     "short_text": "Where will the Island take you?",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 1049510
   },
   {
     "user": {
@@ -25482,7 +25968,8 @@
     "url": "https://blunt.itch.io/drones-blast-arenas",
     "cover": "https://img.itch.zone/aW1hZ2UvMTMwNDgvNDI4MjQ3LnBuZw==/300x240%23c/tK1H4y.png",
     "ratings_count": 0,
-    "price": "$5.99"
+    "price": "$5.99",
+    "steamAppId": 556130
   },
   {
     "user": {
@@ -25560,7 +26047,8 @@
       "osx"
     ],
     "short_text": "A competitive multiplayer game for 2-4 players where you fire bullets that bounce off everything!",
-    "price": "$10"
+    "price": "$10",
+    "steamAppId": 975520
   },
   {
     "title": "\"Land of Pán-gǔ\" Care Package 盤古之地禮物包",
@@ -25636,7 +26124,8 @@
       "windows"
     ],
     "short_text": "A brisk, meditative puzzle action game!",
-    "price": "$2"
+    "price": "$2",
+    "steamAppId": 1033580
   },
   {
     "id": 642422,
@@ -25792,7 +26281,8 @@
       "windows"
     ],
     "short_text": "A RHYTHM game about Tango that takes place in the year 1923 in Argentina!",
-    "price": "$5"
+    "price": "$5",
+    "steamAppId": 701380
   },
   {
     "id": 570088,
@@ -25927,7 +26417,8 @@
       "linux"
     ],
     "short_text": "Puzzle Platformer",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 890630
   },
   {
     "id": 405900,
@@ -25991,7 +26482,8 @@
       "linux"
     ],
     "short_text": "Please try to keep our robots alive . They've been through enough...",
-    "price": "$7.99"
+    "price": "$7.99",
+    "steamAppId": 1014790
   },
   {
     "user": {
@@ -26297,7 +26789,8 @@
     "url": "https://planarian.itch.io/figment",
     "short_text": "Rock, Paper, Scissors, Imagination!",
     "ratings_count": 0,
-    "price": "$4"
+    "price": "$4",
+    "steamAppId": 493540
   },
   {
     "user": {
@@ -26356,7 +26849,8 @@
     "url": "https://sketchhousegames.itch.io/monster-jaunt",
     "short_text": "Throwback Minigame Party",
     "ratings_count": 0,
-    "price": "$17.99"
+    "price": "$17.99",
+    "steamAppId": 983140
   },
   {
     "id": 543559,
@@ -26417,7 +26911,8 @@
       "windows"
     ],
     "short_text": "Fast paced platformer",
-    "price": "$9.99"
+    "price": "$9.99",
+    "steamAppId": 388970
   },
   {
     "id": 529927,
@@ -26497,7 +26992,8 @@
     "url": "https://trashheapgames.itch.io/reach",
     "short_text": "A narrative game about sending one last message before you fade away.",
     "ratings_count": 0,
-    "price": "$1"
+    "price": "$1",
+    "steamAppId": 1234930
   },
   {
     "id": 358970,
@@ -26531,7 +27027,8 @@
       "osx"
     ],
     "short_text": "The most beautiful way to move your brain and imagination",
-    "price": "$1.99"
+    "price": "$1.99",
+    "steamAppId": 976360
   },
   {
     "id": 507741,
@@ -26591,7 +27088,8 @@
     "url": "https://testzero.itch.io/book-of-eos",
     "short_text": "Look into the hearts of monsters in an epic tale inspired by classic RPGs",
     "ratings_count": 0,
-    "price": "$2.99"
+    "price": "$2.99",
+    "steamAppId": 1026430
   },
   {
     "id": 553786,
@@ -26625,7 +27123,8 @@
       "linux"
     ],
     "short_text": "Hook, pull, jump and do combos to clear 100 screens of enemies.",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 1018240
   },
   {
     "user": {
@@ -26683,7 +27182,8 @@
     "url": "https://simprosestudios.itch.io/honorcry",
     "short_text": "Gripping RPG with dozens of quests and hundreds of items to find.",
     "ratings_count": 0,
-    "price": "$1.99"
+    "price": "$1.99",
+    "steamAppId": 867540
   },
   {
     "id": 61563,
@@ -26702,7 +27202,8 @@
       "osx"
     ],
     "short_text": "Coloring for kids",
-    "price": "$2.99"
+    "price": "$2.99",
+    "steamAppId": 411870
   },
   {
     "user": {
@@ -27108,7 +27609,8 @@
       "windows"
     ],
     "short_text": "Welcome to Arlo's first adventure, in an old-school platformer fashion! Complete with amazing chiptune tracks!",
-    "price": "$2"
+    "price": "$2",
+    "steamAppId": 854450
   },
   {
     "id": 537101,
@@ -27433,7 +27935,8 @@
       "windows"
     ],
     "short_text": "A wall-hopping, ceiling-slapping jaunt of a platformer!",
-    "price": "$2.96"
+    "price": "$2.96",
+    "steamAppId": 713310
   },
   {
     "id": 596184,
@@ -27573,7 +28076,8 @@
     "url": "https://aggressive-combustion.itch.io/project-mallow",
     "short_text": "2D puzzle platformer about a sentient marshmallow  tasked with launching and sticking his way across 100+ brutal levels.",
     "ratings_count": 0,
-    "price": "$7.99"
+    "price": "$7.99",
+    "steamAppId": 654010
   },
   {
     "id": 616814,
@@ -27591,7 +28095,8 @@
       "windows"
     ],
     "short_text": "Intense competitive jumping in space",
-    "price": "$4.99"
+    "price": "$4.99",
+    "steamAppId": 1233460
   },
   {
     "id": 134193,
@@ -27706,7 +28211,8 @@
       "windows"
     ],
     "short_text": "Race down lines while being chased by a wall of fire, eating Dots and evading Pointies.",
-    "price": "$3.99"
+    "price": "$3.99",
+    "steamAppId": 549660
   },
   {
     "ratings_count": 0,
@@ -27738,7 +28244,8 @@
       "windows"
     ],
     "short_text": "3rd/1st person online multiplayer shooter",
-    "price": "14.00€"
+    "price": "14.00€",
+    "steamAppId": 793280
   },
   {
     "user": {
@@ -27827,7 +28334,8 @@
     "url": "https://prongt.itch.io/zeph",
     "cover": "https://img.itch.zone/aW1nLzM1Nzk2MDguanBn/300x240%23c/YRZ%2Fck.jpg",
     "ratings_count": 0,
-    "price": "$4"
+    "price": "$4",
+    "steamAppId": 1279810
   },
   {
     "id": 664277,
@@ -27923,7 +28431,8 @@
     "url": "https://chet-stead.itch.io/pillars-of-dust",
     "short_text": "A lighthearted retro RPG with two intertwining storylines",
     "ratings_count": 0,
-    "price": "$6.99"
+    "price": "$6.99",
+    "steamAppId": 1144140
   },
   {
     "id": 665133,
@@ -27970,7 +28479,8 @@
       "windows"
     ],
     "short_text": "A huge platform adventure to restore the world's music",
-    "price": "$7"
+    "price": "$7",
+    "steamAppId": 340250
   },
   {
     "id": 665956,
@@ -28074,7 +28584,8 @@
       "windows"
     ],
     "short_text": "The dead have risen... and they want music!",
-    "price": "$1.99"
+    "price": "$1.99",
+    "steamAppId": 722400
   },
   {
     "id": 226349,
@@ -28232,7 +28743,8 @@
       "windows"
     ],
     "short_text": "Detective Bot is a silly physics based detective game which you can play on your own or in co-op with up to 4 players.",
-    "price": "$7.99"
+    "price": "$7.99",
+    "steamAppId": 1110340
   },
   {
     "title": "Hooks And Shotguns",

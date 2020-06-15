@@ -14,10 +14,9 @@ a {
 }
 a:hover {
     color: #ff2449;
-    text-decoration: underline;
     border: 0 solid #ff2449;
 }
-a:hover img {
+a:hover.main-link img {
     transform: scale(1.04);
     transition: 0.2s;
     border: 3px solid #ff2449;
@@ -52,6 +51,20 @@ a:hover img {
     font-weight: normal;
 }
 
-label {
+#form {
+    margin-bottom: 20px;
+}
+#form label {
+    display: inline-block;
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+h2 label {
     font-size: 14px;
+}
+
+.steam-icon {
+    height: 16px;
+    vertical-align: middle;
 }

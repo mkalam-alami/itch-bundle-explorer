@@ -14,18 +14,26 @@
             <a href="https://itch.io/b/520/bundle-for-racial-justice-and-equality">Bundle for Racial Justice and Equality</a> contents
             <a href="https://github.com/mkalam-alami/itch-bundle-explorer" id="github-link">Fork this repo on Github</a>
         </h1>
-        <div><input id="search" v-model="search" placeholder="Start typing..." @keyup="onSearch()" /></div>
+        <div id="form">
+            <input id="search" v-model="search" placeholder="Start typing..." @keyup="onSearch()" /><br />
+            <label for="steamOnly"><input type="checkbox" id="steamOnly" name="steamOnly" v-model="steamOnly"> Steam games only</label>
+        </div>
         <h2>
             Showing {{ results.length }} results
             <span v-if="resultsCount > results.length">out of {{ resultsCount }}</span>
             <label for="allResults"><input type="checkbox" id="allResults" name="allResults" v-model="allResults"> Always show all results (slower)</label>
         </h2>
         <div class="games">
-            <a v-for="game in results" v-bind:href="game.url" class="game">
-                <h3 class="game__title">{{ game.title }}</h3>
-                <div class="game__user">By {{ game.user.name }}</div>
-                <img v-lazy-src="'static/pics/' + game.id + '.png'" />
-            </a>
+            <div class="game" v-for="game in results">
+                <a v-bind:href="game.url" class="main-link">
+                    <h3 class="game__title">{{ game.title }}</h3>
+                    <div class="game__user">By {{ game.user.name }}</div>
+                    <img v-lazy-src="'static/pics/' + game.id + '.png'" />
+                </a>
+                <a v-if="game.steamAppId" v-bind:href="'https://store.steampowered.com/app/' + game.steamAppId" target="_blank"> 
+                    <img class="steam-icon" src="static/steam.svg" /> Steam page
+                </a>
+            </div>
         </div>
     </div>
     <script src="static/dist/games.js"></script>
