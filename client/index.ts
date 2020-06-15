@@ -25,6 +25,7 @@ new Vue({
         allResults: false,
         steamOnly: false,
         categoryGame: true,
+        categoryBook: true,
         categoryAssets: true,
         categorySoundtrack: true
     },
@@ -32,8 +33,9 @@ new Vue({
         allResults() { this.refreshResults(); },
         steamOnly() { this.refreshResults(); },
         categoryGame() { this.refreshResults(); },
+        categoryBook() { this.refreshResults(); },
         categoryAssets() { this.refreshResults(); },
-        categorySoundtrack() { this.refreshResults(); }
+        categorySoundtrack() { this.refreshResults(); },
     },
     methods: {
         onSearch: debounce(function() {
@@ -50,6 +52,7 @@ new Vue({
             // Filters
             const categoryFilter = [
                 ...(this.categoryGame ? ['game'] : []),
+                ...(this.categoryBook ? ['book'] : []),
                 ...(this.categoryAssets ? ['assets'] : []),
                 ...(this.categorySoundtrack ? ['soundtrack'] : [])
             ]

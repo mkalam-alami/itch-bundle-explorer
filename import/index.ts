@@ -24,6 +24,9 @@ function guessCategory(game: itch.Game) {
     if (game.steamAppId) {
         return 'game';
     }
+    if (title.includes('book') || title.includes('pdf') || fullText.includes('rulebook') || fullText.includes('playbook')) {
+        return 'book';
+    }
     if (title.includes('asset') || title.includes(' pack') || title.includes('font')
         || title.includes('video') || title.includes('texture') || title.includes('sfx') || title.includes('tileset')
         || title.endsWith(' kit') || fullText.includes(' tool')) {
