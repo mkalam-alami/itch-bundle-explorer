@@ -35,6 +35,10 @@ a:hover.main-link img {
     width: 500px;
 }
 
+hr {
+    margin: 20px 0;
+}
+
 .games {
     display: flex;
     flex-wrap: wrap;

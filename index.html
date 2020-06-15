@@ -15,9 +15,21 @@
             <a href="https://github.com/mkalam-alami/itch-bundle-explorer" id="github-link">Fork this repo on Github</a>
         </h1>
         <div id="form">
-            <input id="search" v-model="search" placeholder="Start typing..." @keyup="onSearch()" /><br />
-            <label for="steamOnly"><input type="checkbox" id="steamOnly" name="steamOnly" v-model="steamOnly"> Steam games only</label>
+            <div><input id="search" v-model="search" placeholder="Start typing..." @keyup="onSearch()" /></div>
+            <div><label for="steamOnly"><input type="checkbox" id="steamOnly" name="steamOnly" v-model="steamOnly"> Steam games only</label></div>
+            <div>
+                <label for="categoryGame"><input type="checkbox" id="categoryGame" name="categoryGame" v-model="categoryGame"> Games</label>
+                <label for="categoryAssets"><input type="checkbox" id="categoryAssets" name="categoryAssets" v-model="categoryAssets"> Assets & tools</label>
+                <label for="categorySoundtrack"><input type="checkbox" id="categorySoundtrack" name="categorySoundtrack" v-model="categorySoundtrack"> Soundtracks</label>
+                (Category detection is keyword-based, which may cause some mistakes)
+            </div>
         </div>
+        <div>
+            <i>Bundle contents last updated on June 15th.</i>
+        </div>
+
+        <hr />
+
         <h2>
             Showing {{ results.length }} results
             <span v-if="resultsCount > results.length">out of {{ resultsCount }}</span>

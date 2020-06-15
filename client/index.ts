@@ -23,33 +23,45 @@ new Vue({
         resultsCount: games.length,
         search: '',
         allResults: false,
-        steamOnly: false
+        steamOnly: false,
+        categoryGame: true,
+        categoryAssets: true,
+        categorySoundtrack: true
     },
     watch: {
-        allResults() {
-            this.refreshResults();
-        },
-        steamOnly() {
-            this.refreshResults();
-        }
+        allResults() { this.refreshResults(); },
+        steamOnly() { this.refreshResults(); },
+        categoryGame() { this.refreshResults(); },
+        categoryAssets() { this.refreshResults(); },
+        categorySoundtrack() { this.refreshResults(); }
     },
     methods: {
         onSearch: debounce(function() {
             this.refreshResults()
         }, 300),
         refreshResults() {
+            // Text-based search
             if (this.search) {
                 this.results = matchingGames(searchIndex, this.search);
             } else {
                 this.results = games;
             }
-
+            
+            // Filters
+            const categoryFilter = [
+                ...(this.categoryGame ? ['game'] : []),
+                ...(this.categoryAssets ? ['assets'] : []),
+                ...(this.categorySoundtrack ? ['soundtrack'] : [])
+            ]
+            this.results = this.results.filter(result => categoryFilter.includes(result.category))
             if (this.steamOnly) {
                 this.results = this.results.filter(result => Boolean(result.steamAppId));
             }
 
+            // Count
             this.resultsCount = this.results.length;
 
+            // Results limit
             if (!this.allResults) {
                 this.results = this.results.slice(0, MAX_GAMES)
             }

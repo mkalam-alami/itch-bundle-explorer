@@ -15,7 +15,7 @@ app.use(koaStatic("."))
 app.use(async (ctx) => {
     if (ctx.url.startsWith("/static/pics/")) {
         // Cache game pics locally
-        // TODO Download them on import
+        // TODO Download them on import instead
         const picFile = ctx.url.replace("/static/pics/", "");
         const picId = parseInt(picFile.split(".")[0], 10);
         if (!isNaN(picId)) {

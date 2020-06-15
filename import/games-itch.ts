@@ -20,6 +20,7 @@ export interface Game {
     short_text: string;
     price: string;
     steamAppId?: string;
+    category: "game" | "assets" | "soundtrack"
 }
 
 export interface Games {
